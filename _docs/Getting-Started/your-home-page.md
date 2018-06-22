@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Your Home Page
 area: Getting Started
 ---
