@@ -1,4 +1,5 @@
 ---
+layout: docs
 title: Welcome
 permalink: /docs/home/
 ---
