@@ -1,6 +1,6 @@
 ---
 title: Importing Marksheets
-area: /docs/assessment/importing-marksheets/
+permalink: /docs/assessment/importing-marksheets/
 ---
 
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.
