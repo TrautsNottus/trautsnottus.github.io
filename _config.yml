@@ -13,3 +13,12 @@ defaults:
   values:
     layout: docs
 
+<<<<<<< HEAD
+=======
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-toc
+
+theme: jekyll-theme-cayman
+>>>>>>> 9b97431dd0421f9b61adc8776368b8928c462abe
