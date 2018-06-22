@@ -8,7 +8,6 @@ permalink: /docs/assessment/
 
 Hello! This is where we document various processes for maintaining Jekyll. Being a maintainer for any Jekyll project is a big responsibility, so we put together some helpful documentation for various tasks you might do as a maintainer.
 
-- [Awesome](creating-markhseets/)
-
+- [Awesome](creating-marksheets/)
 
 Interested in becoming a maintainer? Here is some documentation for **contributors**:
