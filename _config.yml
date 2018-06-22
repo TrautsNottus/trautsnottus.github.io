@@ -1,2 +1,14 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
+
+defaults:
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: news_item
