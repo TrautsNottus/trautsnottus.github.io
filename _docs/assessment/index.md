@@ -1,5 +1,5 @@
 ---
-title: Assessment
+title: Assessment Area
 permalink: /docs/assessment/
 ---
 

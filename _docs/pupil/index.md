@@ -1,5 +1,5 @@
 ---
-title: Assessment
+title: Pupil Area
 permalink: /docs/pupil/
 ---
 
