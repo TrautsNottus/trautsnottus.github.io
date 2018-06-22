@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Welcome
-permalink: /docs/home/
+permalink: /docs/index.html
 ---
 
 This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing content, customizing your build, and deploying.
