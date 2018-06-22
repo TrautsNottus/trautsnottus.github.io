@@ -12,4 +12,4 @@ Shows you what's going on around the school. See your day at a glance: lessons, 
 ### Widgets
 Widgets provide a quick overview of relevant summary information for your school– click a widget to see more detail
 
-[Go Back](02_Navigation.md)
+[Go Back](navigation.md)
