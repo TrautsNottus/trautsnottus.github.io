@@ -1,11 +1,19 @@
 name: SIMS Primary Online Help
+
 markdown: kramdown
+
 collections:
   docs:
     output: true
+    
 defaults:
 - scope:
     path: ""
     type: docs
   values:
     layout: docs
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-toc
