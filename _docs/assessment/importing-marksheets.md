@@ -10,6 +10,4 @@ The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. 
 3. Quick wafting zephyrs vex bold Jim. 
 
 Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMjQ3MTYsMTM4NzM3NjIyM119
--->
+

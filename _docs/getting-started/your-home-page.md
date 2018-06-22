@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: docs
 title: Your Home Page
 area: Getting Started
 ---
