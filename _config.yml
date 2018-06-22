@@ -2,7 +2,6 @@ name: SIMS Primary Online Help
 markdown: kramdown
 collections:
   docs:
-    permalink: "/:collection/:path/"
     output: true
 defaults:
 - scope:
