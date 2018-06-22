@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: docs
 title: Getting Started with SIMS Primary
 area: Getting Started
 ---
