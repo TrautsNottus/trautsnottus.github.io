@@ -3,6 +3,7 @@ layout: docs
 title: Your Home Page
 area: Getting Started
 ---
+
 > A fresher homepage with real time widgets, providing a collated summary of top level information about your school or academy.
 
 [![Class Log](https://img.youtube.com/vi/bxI1ricmZV0/0.jpg)](https://www.youtube.com/watch?v=bxI1ricmZV0)
