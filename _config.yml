@@ -13,7 +13,3 @@ defaults:
   values:
     layout: docs
 
-plugins:
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-toc
