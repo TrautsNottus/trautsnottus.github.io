@@ -6,7 +6,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: _docs
+    path: ""
     type: docs
   values:
     layout: docs
