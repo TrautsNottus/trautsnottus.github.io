@@ -17,3 +17,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-toc
+
+theme: jekyll-theme-cayman
