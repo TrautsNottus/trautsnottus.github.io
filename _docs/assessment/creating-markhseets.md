@@ -1,6 +1,6 @@
 ---
 title: Creating Marksheet
-area: Assessment
+area: /docs/assessment/creating-marksheets/
 ---
 # Fred
 
