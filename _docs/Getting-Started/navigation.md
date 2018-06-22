@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Navigation
 area: Getting Started
 ---
