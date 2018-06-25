@@ -1,4 +1,6 @@
-<ol class="breadcrumb">
+{{page.url}}
+
+<ul class="breadcrumbs">
     <li style="display: none"><a href="{{ site.baseurl }}/">Home</a></li>
     {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
     
@@ -10,20 +12,25 @@
     {% for i in (1..forLoopMaxInt) %}
 
         {% capture current_breadcrumb_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/index.html{% endcapture %}
-         {% capture current_breadcrumb_md_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/{% endcapture %}
+        {% capture current_breadcrumb_md_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/{% endcapture %}
      
-         {% capture next_prepender %}{{next_prepender}}/{{ splitted_url_parts[i] }}{% endcapture %}
+        {% capture next_prepender %}{{next_prepender}}/{{ splitted_url_parts[i] }}{% endcapture %}
      
-         {% for breadcrumb_page in site.documents %}
-               {% if current_breadcrumb_url == breadcrumb_page.url or current_breadcrumb_md_url == breadcrumb_page.url  %}
-                 {% assign j = forLoopMaxInt | plus: 0 %}
-                    <li {% if i == j %}class="active"{% endif %}>
-                        {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
-
-                        <a href="{{ site.baseurl }}{{breadcrumb_page_page_url_without_index_html}}">  {% if breadcrumb_page.breadcrumb %} {{breadcrumb_page.breadcrumb}} {% else %} {{breadcrumb_page.title}} {% endif %}</a>
-
+        {% for breadcrumb_page in site.documents %}
+            {% if current_breadcrumb_url == breadcrumb_page.url or current_breadcrumb_md_url == breadcrumb_page.url  %}
+    
+          
+                {% assign j = forLoopMaxInt | plus: 0 %}
+                {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
+  
+                <li class="breadcrumb"  {% if i == j %}class="active"{% endif %}>
+                        {% if breadcrumb_page_page_url_without_index_html == page_url_without_index_html %}
+                            <span>  {% if breadcrumb_page.breadcrumb %} {{breadcrumb_page.breadcrumb}} {% else %} {{breadcrumb_page.title}} {% endif %}</span>
+                        {% else if %}
+                          <a href="{{ site.baseurl }}{{breadcrumb_page_page_url_without_index_html}}">  {% if breadcrumb_page.breadcrumb %} {{breadcrumb_page.breadcrumb}} {% else %} {{breadcrumb_page.title}} {% endif %}</a>
+                        {% endif %}
                     </li>
             {% endif %}
         {% endfor %}
     {% endfor %}
-</ol>
+</ul>

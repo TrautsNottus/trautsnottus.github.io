@@ -1,7 +1,7 @@
 ---
-title: Assessment Area
+title: Assessment
 permalink: /docs/assessment/
-breadcrumb: Assessment Root
+breadcrumb: Assessment
 ---
 
 **This guide is for Assessment.**

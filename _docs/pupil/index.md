@@ -1,5 +1,5 @@
 ---
-title: Pupil Area
+title: Pupil
 permalink: /docs/pupil/
 ---
 

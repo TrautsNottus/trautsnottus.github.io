@@ -1,7 +1,8 @@
 ---
 title: Creating the Return
-area: Census
+permalink: /docs/census/creating-the-return
 ---
+
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.
 
 1. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.

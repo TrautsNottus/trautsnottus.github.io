@@ -2,9 +2,9 @@
 layout: docs
 title: Welcome
 permalink: /docs/
-breadcrumb: SIM Primary Online Help
+breadcrumb: Home
 ---
 
 - [Assessment](assessment)
+- [Census](census)
 - [Pupil](pupil)
-- [Importing Marksheets](importing-marksheets)
