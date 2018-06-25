@@ -2,6 +2,7 @@
 layout: docs
 title: Welcome
 permalink: /docs/
+breadcrumb: SIM Primary Online Help
 ---
 
 - [Assessment](assessment)
