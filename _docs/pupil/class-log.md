@@ -1,11 +1,12 @@
 ---
 title: Class Log
 permalink: /docs/pupil/class-log/
+classlogvideo: BpJxomJgdwE
 ---
 
 > Manage your class from one place.
 
-[![Class Log](https://img.youtube.com/vi/BpJxomJgdwE/0.jpg)](https://www.youtube.com/watch?v=BpJxomJgdwE)
+{% include youtubePlayer.html id=page.classlogvideo title="This is some labelling" %}
 
 From the Class Log you can
 
