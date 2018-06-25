@@ -1,0 +1,8 @@
+{% assign item = site.glossary  | where_exp:"item", "item.title == include.explain"  | first %}
+<abbr data-html="true"
+tabindex="0" 
+data-toggle="popover" 
+data-placement="auto" 
+data-trigger="hover" 
+title="{{item.title}}" 
+data-content="{{ item.content | markdownify }}">{{item.title}}</abbr>

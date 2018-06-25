@@ -8,9 +8,8 @@ permalink: /docs/glossary/
   {% for page in site.glossary %}
   <article>
     <h2>{{ page.title }}</h2>
-    <p>{{ page.content | markdownify }}</p>
+    {{ page.content | markdownify }}
   </article>
   {% endfor %}
-  
 </section>
 
