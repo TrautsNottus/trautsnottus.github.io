@@ -5,7 +5,10 @@ markdown: kramdown
 collections:
   docs:
     output: true
+  glossary:
+    output: true
     
+
 defaults:
 - scope:
     path: ""

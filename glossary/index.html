@@ -1,0 +1,17 @@
+---
+layout: docs
+title: Glossary
+---
+
+
+  <section>
+
+    {% for page in site.glossary %}
+    <article>
+      <h2>{{ page.title }}</h2>
+      <p>{{ page.content | markdownify }}</p>
+    </article>
+    {% endfor %}
+    
+  </section>
+
