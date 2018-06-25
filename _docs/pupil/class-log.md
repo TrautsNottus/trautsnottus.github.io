@@ -1,6 +1,6 @@
 ---
 title: Class Log
-area: Pupil
+permalink: /docs/pupil/class-log/
 ---
 
 > Manage your class from one place.

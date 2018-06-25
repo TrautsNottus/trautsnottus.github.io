@@ -1,6 +1,6 @@
 ---
 title: Creating Marksheet
-permalink: /docs/assessment/creating-marksheets
+permalink: /docs/assessment/creating-marksheets/
 breadcrumb: Creating Marksheets
 ---
 # Fred

@@ -1,6 +1,6 @@
 ---
 title: Pupil Log
-area: Pupil
+permalink: /docs/pupil/pupil-log/
 ---
 
 > The Pupil Log provides easy access to all the information you need to understand your pupils as individuals.

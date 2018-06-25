@@ -1,5 +1,3 @@
-{{page.url}}
-
 <ul class="breadcrumbs">
     <li style="display: none"><a href="{{ site.baseurl }}/">Home</a></li>
     {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
@@ -18,9 +16,9 @@
      
         {% for breadcrumb_page in site.documents %}
             {% if current_breadcrumb_url == breadcrumb_page.url or current_breadcrumb_md_url == breadcrumb_page.url  %}
-    
-          
+        
                 {% assign j = forLoopMaxInt | plus: 0 %}
+            
                 {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
   
                 <li class="breadcrumb"  {% if i == j %}class="active"{% endif %}>
