@@ -1,6 +1,5 @@
 ---
 title: Pupil
-permalink: /docs/pupil/
 ---
 
 **This guide is for Pupil.**
