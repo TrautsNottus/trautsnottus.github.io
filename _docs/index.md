@@ -5,7 +5,7 @@ permalink: /docs/
 breadcrumb: Home
 ---
 
-- [Assessment](assessment)
-- [Census](census)
-- [Pupil](pupil)
-- [Glossary](glossary)
+- [Assessment](assessment/)
+- [Census](census/)
+- [Pupil](pupil/)
+- [Glossary](glossary/)
