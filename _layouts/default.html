@@ -26,6 +26,11 @@
   <div class="container" style="margin-top: 2rem">
     {{ content }}
   </div>
+  <script>
+    if (window.parent) {
+     window.parent.postMessage(window.location.href);
+    }
+  </script>
 </body>
 
 </html>
