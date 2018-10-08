@@ -28,7 +28,7 @@
   </div>
   <script>
     if (window.parent) {
-     window.parent.postMessage(window.location.href, '*');
+     window.parent.postMessage({type: 'help', location:window.location.href}, '*');
     }
   </script>
 </body>
