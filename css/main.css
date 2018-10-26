@@ -5,6 +5,22 @@
   line-height: 1.3rem;
 }
 
+
+h1
+{
+    font-size: 1.5rem;
+}
+
+h2
+{
+    font-size: 1.2rem;
+}
+
+h2
+{
+    font-size: 1.1rem;
+}
+
 .breadcrumbs {
   display: flex;
   list-style: none;
