@@ -2,9 +2,11 @@
 layout: docs
 title: SIMS Help Centre
 permalink: /docs/
-
 ---
-# Welcome to SIMS
+
+# SIMS Help Centre
+
+## Getting Started
 
 - [Introduction to SIMS](assessment/)
 - [Your account](assessment/)
@@ -17,6 +19,5 @@ permalink: /docs/
 
 
 ## Set up and running your school
-
 
 - [Glossary](glossary/)

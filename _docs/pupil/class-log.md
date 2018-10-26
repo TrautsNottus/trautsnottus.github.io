@@ -4,6 +4,7 @@ classlogvideo: BpJxomJgdwE
 ---
 
 > Manage your class from one place.
+{:.warning}
 
 {% include youtubePlayer.html id=page.classlogvideo title="This is some labelling" %}
 
