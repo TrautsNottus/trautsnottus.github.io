@@ -6,18 +6,22 @@ permalink: /docs/
 
 # SIMS Help Centre
 
-## Getting Started
+## Getting Started With SIMS
 
-- [Introduction to SIMS](assessment/)
-- [Your account](assessment/)
-- [Moving from another MIS](assessment/)
+- [Introduction to SIMS](getting-started/)
+- [Your account](accounts/)
+
+## SIMS in the Classroom
+
+- [Class Log](class-log/)
+- [Taking the register](pupil/)
+- [Recording lunches](pupil/)
+- [Conduct](pupil/)
+- [Assessment](assessment/)
 
 ## Set up and running your school
 
-- [Census](census/)
-- [Pupil](pupil/)
-
-
-## Set up and running your school
-
-- [Glossary](glossary/)
+- [School Administration](pupil/)
+- [Assessment](assessment/)
+- [Admissions](pupil/)
+- [Returns](census/)

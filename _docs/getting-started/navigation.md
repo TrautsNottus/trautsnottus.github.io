@@ -1,7 +1,6 @@
 ---
-layout: docs
-title: Navigation
-area: Getting Started
+title: Navigating around SIMS
+permalink: /docs/getting-started/navigation/
 ---
 
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.

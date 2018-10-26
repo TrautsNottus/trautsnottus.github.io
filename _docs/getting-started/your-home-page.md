@@ -1,7 +1,6 @@
 ---
-layout: docs
 title: Your Home Page
-area: Getting Started
+permalink: /docs/getting-started/your-home-page/
 ---
 
 > A fresher homepage with real time widgets, providing a collated summary of top level information about your school or academy.
