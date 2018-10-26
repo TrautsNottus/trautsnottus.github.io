@@ -13,7 +13,7 @@ permalink: /docs/
 
 ## SIMS in the Classroom
 
-- [Class Log](class-log/)
+- [Class Log](clog/)
 - [Taking the register](pupil/)
 - [Recording lunches](pupil/)
 - [Conduct](pupil/)
