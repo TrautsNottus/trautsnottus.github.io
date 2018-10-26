@@ -25,14 +25,16 @@ h2
   display: flex;
   list-style: none;
   padding: 0;
+  font-size: 11px;
 }
 
-.breadcrumb + .breadcrumb {
-  padding: 0 7px;
+.crumb + .crumb {
+  padding: 0px;
 }
 
-.breadcrumb + .breadcrumb:before {
-  content: "/";
+.crumb + .crumb:before {
+  content: "›";
+  padding: 0 0 0 3px;
 }
 
 table {
