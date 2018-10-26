@@ -1,6 +1,6 @@
 ---
 title: The Class Log
-permalink: /docs/class-log
+permalink: /docs/class-log/
 ---
 # The Class Log
 
