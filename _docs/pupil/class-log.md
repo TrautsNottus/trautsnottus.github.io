@@ -14,4 +14,6 @@ From the Class Log you can
 - Award behaviour and achievement points to pupils
 - Capture thoughts, notes, pictures, evidence
 - Find details about an individual pupil, fast
-- Sort and filter your class
+- Sort and filter your 
+- and more cool shiz
+- and more
