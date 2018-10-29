@@ -25,3 +25,11 @@ permalink: /docs/
 - [Assessment](assessment/)
 - [Admissions](pupil/)
 - [Returns](census/)
+
+## SIMS Releases
+- [What's new](pupil/)
+- [Release Notes](release-notes/)
+
+
+## Glossary
+- [Glossary](glossary/)

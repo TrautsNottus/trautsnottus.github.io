@@ -154,6 +154,17 @@ blockquote.warning {
 }
 
 
+blockquote.summary {
+
+
+  
+  border-left: 6px solid #ff7272;
+  background-color: #ffffff;
+  color: rgb(53, 53, 53);
+}
+
+
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
