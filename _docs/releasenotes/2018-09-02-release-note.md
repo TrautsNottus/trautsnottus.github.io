@@ -11,6 +11,8 @@ release-note: true
 {:.summary}
 
 ## Reporting
+
+late breaking change
 Report Name – Communication Report. 
 
 The purpose of this report is to extract pupil & contact data in CSV format. This export data can be used to populate external communications software.
