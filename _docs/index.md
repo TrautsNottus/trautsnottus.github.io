@@ -27,8 +27,8 @@ permalink: /docs/
 - [Returns](census/)
 
 ## SIMS Releases
-- [What's new](pupil/)
-- [Release Notes](release-notes/)
+- [What's New](release-notes/)
+- [Release Notes](releasenotes/)
 
 
 ## Glossary

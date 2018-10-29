@@ -1,0 +1,26 @@
+---
+layout: docs
+title: Release Notes
+permalink: /docs/releasenotes/
+---
+
+<h1>Release Notes</h1>
+
+<blockquote  class="summary">
+Something about release Notes
+</blockquote>
+
+<section>
+
+  <ul>
+      {% assign selection = site.docs | where: 'release-note', true %}
+
+    {% for page in selection %}
+      <li>
+        <a href="{{page.url}}">{{page.title}}</a>
+     
+      </li>
+    {% endfor %}
+    <ul>
+</section>
+
