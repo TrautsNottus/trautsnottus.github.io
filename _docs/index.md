@@ -27,7 +27,7 @@ permalink: /docs/
 - [Returns](census/)
 
 ## SIMS Releases
-- [What's New](release-notes/)
+- [What's New](whats-new/)
 - [Release Notes](releasenotes/)
 
 

@@ -128,7 +128,7 @@ blockquote.tip {
   padding-left: 3em;
   background-image: url(images/svg/lamp.svg);
   background-repeat: no-repeat;
-  background-position: 0.5em 1.2em;
+  background-position: .5em 50% ;
   background-size: 2em;
   border-left: 6px solid rgb(114, 158, 255);
   background-color: #e4e8ff;
@@ -140,7 +140,7 @@ blockquote.note {
   padding-left: 3em;
   background-image: url(images/svg/pencil2.svg);
   background-repeat: no-repeat;
-  background-position: 0.5em 1.2em;
+  background-position: .5em 50% ;
   background-size: 2em;
   border-left: 6px solid rgb(114, 158, 255);
   background-color: #e4e8ff;
@@ -152,7 +152,7 @@ blockquote.warning {
   padding-left: 3em;
   background-image: url(images/svg/alarm.svg);
   background-repeat: no-repeat;
-  background-position: 0.5em 1.2em;
+  background-position: .5em 50% ;
   background-size: 2em;
   border-left: 6px solid #ff7272;
   background-color: #ffe7ef;
@@ -162,8 +162,6 @@ blockquote.warning {
 
 blockquote.summary {
 
-
-  
   border-left: 6px solid #ff7272;
   background-color: #ffffff;
   color: rgb(53, 53, 53);
