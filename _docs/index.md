@@ -8,15 +8,17 @@ permalink: /docs/
 
 ## Getting Started With SIMS
 
-- [Introduction to SIMS](getting-started/)
+- [Introduction to SIMS](getting-started/welcome-to-sims/)
+- [Navigating Around](getting-started/navigation/)
 - [Your account](accounts/)
+- [More...](getting-started/)
 
 ## SIMS in the Classroom
 
 - [Class Log](clog/)
-- [Taking the register](pupil/)
-- [Recording lunches](pupil/)
-- [Conduct](pupil/)
+- [Taking the register](clog/take-register/)
+- [Recording lunches](clog/dinner-register/)
+- [Conduct](clog/conduct/)
 - [Assessment](assessment/)
 
 ## Set up and running your school

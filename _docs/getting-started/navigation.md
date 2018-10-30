@@ -3,9 +3,11 @@ title: Navigating around SIMS
 permalink: /docs/getting-started/navigation/
 ---
 
+# Navigating around SIMS
+
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.
 
-# Task Menu
+## Task Menu
 
 [Image]
 

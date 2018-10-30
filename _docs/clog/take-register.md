@@ -9,6 +9,11 @@ permalink: /docs/clog/take-register/
 ## Opening Take Register
 
 You can open the Take Register screen by opening the Class Log and clicking Take Register on the toolbar.
+{% include glossarytooltip.html explain="Class Log" %}
+{% include glossarytooltip.html explain="Main Menu" %}
+
+1. Open the {% include glossarytooltip.html explain="Main Menu" %}.
+1. Search for  in the {% include glossarytooltip.html explain="Menu Item Search" %}.
 
 If you are signed into SIMS as a class teacher, there is a shortcut for Take Register in the quick links.
 

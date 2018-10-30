@@ -7,7 +7,7 @@ collections:
     output: true
   glossary:
     output: true
-  releasenotes:
+  broadcast:
     output: true
 
 defaults:
