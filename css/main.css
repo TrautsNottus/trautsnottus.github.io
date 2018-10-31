@@ -190,6 +190,8 @@ blockquote.warning {
   margin: 0 1em;
   line-height: 1.5em;
   flex: 1 1 auto;
+  font-size: 1.33em;
+  text-align: center;
 }
 
 .previous-icon {
