@@ -73,10 +73,12 @@ abbr:after {
 }
 
 .breadcrumbs {
+  width: 100%;
+  background-color: #ffffff;
   list-style: none;
   padding: 0;
   font-size: 11px;
-  margin-bottom: 13px;
+  line-height: 26px;
 }
 
 .crumb {
@@ -192,6 +194,7 @@ blockquote.warning {
   flex: 1 1 auto;
   font-size: 1.33em;
   text-align: center;
+
 }
 
 .previous-icon {
@@ -213,4 +216,22 @@ blockquote.warning {
 }
 .home {
   background-image: url(images/svg/home.svg);
+}
+
+
+#help-nav
+{
+  background-color: #ffffff;
+position: fixed;
+  width: 100%;
+  top:0;
+  z-index: 1070;
+}
+
+#help-body
+{
+  flex: 1 1 auto;
+  overflow-x: auto;
+  overflow-y: hidden;
+
 }
