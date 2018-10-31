@@ -6,8 +6,10 @@ collections:
   docs:
     output: true
   glossary:
-    output: true
+    output: false
   broadcast:
+    output: true
+  images:
     output: true
 
 defaults:

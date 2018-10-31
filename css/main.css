@@ -1,7 +1,7 @@
 #html {
   font-size: 13px;
   height: 100%;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 #body {
@@ -10,8 +10,6 @@
   font-size: 1rem;
   line-height: 1.7rem;
 }
-
-
 
 h1 {
   font-size: 2rem;
@@ -25,11 +23,10 @@ h3 {
   font-size: 1.3rem;
 }
 
-p + h2{
+p + h2 {
   margin-top: 2em;
 }
-p+p
-{
+p + p {
   margin-top: 1em;
 }
 
@@ -72,24 +69,21 @@ abbr:after {
 
   border-width: 0 0 2px;
   border-style: dotted;
-  border-color:inherit;
+  border-color: inherit;
 }
 
 .breadcrumbs {
-
   list-style: none;
   padding: 0;
   font-size: 11px;
   margin-bottom: 13px;
 }
 
-.crumb
-{
+.crumb {
   float: left;
 }
 
 .crumb + .crumb {
-
   padding: 0px;
 }
 
@@ -118,13 +112,12 @@ th {
 blockquote {
   padding: 1em;
   margin: 1em 0;
-  background-position: .5em 1em;
+  background-position: 0.5em 1em;
   border-left: 6px solid #ff7272;
   background-color: #ffffff;
   color: rgb(53, 53, 53);
 }
 blockquote.tip {
-
   padding-left: 3em;
   background-image: url(images/svg/lamp.svg);
   background-repeat: no-repeat;
@@ -136,7 +129,6 @@ blockquote.tip {
 }
 
 blockquote.note {
-
   padding-left: 3em;
   background-image: url(images/svg/pencil2.svg);
   background-repeat: no-repeat;
@@ -148,7 +140,6 @@ blockquote.note {
 }
 
 blockquote.warning {
-
   padding-left: 3em;
   background-image: url(images/svg/alarm.svg);
   background-repeat: no-repeat;
@@ -158,9 +149,6 @@ blockquote.warning {
   background-color: #ffe7ef;
   color: rgb(139, 0, 19);
 }
-
-
-
 
 .embed-container {
   position: relative;
@@ -180,8 +168,6 @@ blockquote.warning {
   height: 100%;
 }
 
-
-
 .clearfix:before,
 .clearfix:after {
   content: " "; /* 1 */
@@ -190,5 +176,39 @@ blockquote.warning {
 
 .clearfix:after {
   clear: both;
-  
+}
+
+.nav-bar {
+  background: #f5f5f5;
+  border-bottom: 1px solid #ebebeb;
+  padding: 0.5em 1em;
+
+  display: flex;
+}
+
+.nav-bar-header {
+  margin: 0 1em;
+  line-height: 1.5em;
+  flex: 1 1 auto;
+}
+
+.previous-icon {
+  cursor: pointer;
+  background-color: transparent;
+  background-repeat: no-repeat;
+ background-size: 24px;
+  background-position: center;
+  border: none;
+  /* height: 24px; */
+  width: 39px;
+  padding: 0;
+  line-height: 1.5em;
+  vertical-align: middle;
+}
+
+.back {
+  background-image: url(images/svg/left-arrow.svg);
+}
+.home {
+  background-image: url(images/svg/home.svg);
 }

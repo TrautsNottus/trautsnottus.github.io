@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: SIMS Help Centre
 permalink: /docs/
 ---
@@ -23,7 +22,7 @@ permalink: /docs/
 
 ## Set up and running your school
 
-- [School Administration](pupil/)
+- [School Administration](schoolmanagement/)
 - [Assessment](assessment/)
 - [Admissions](pupil/)
 - [Returns](census/)
