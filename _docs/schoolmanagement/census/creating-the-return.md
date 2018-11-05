@@ -1,6 +1,5 @@
 ---
 title: Creating the Return
-permalink: /docs/census/creating-the-return/
 ---
 
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.

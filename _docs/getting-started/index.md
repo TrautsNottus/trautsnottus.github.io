@@ -1,6 +1,5 @@
 ---
 title: Getting started with SIMS
-permalink: /docs/getting-started/
 ---
 
 # Getting started with SIMS

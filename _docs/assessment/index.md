@@ -1,7 +1,5 @@
 ---
 title: Assessment
-permalink: /docs/assessment/
-breadcrumb: Assessment
 ---
 
 # Assessment with SIMS

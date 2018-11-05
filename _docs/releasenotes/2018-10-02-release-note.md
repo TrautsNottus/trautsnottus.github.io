@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: "Release Note - October 2018"
-permalink: /docs/releasenotes/october-2018/
 release-note: true
 ---
 

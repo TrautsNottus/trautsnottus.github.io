@@ -1,6 +1,5 @@
 ---
 title: Navigating around SIMS
-permalink: /docs/getting-started/navigation/
 ---
 
 # Navigating around SIMS

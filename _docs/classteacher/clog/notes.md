@@ -1,6 +1,5 @@
 ---
 title: Notes
-permalink: /docs/clog/notes/
 ---
 
 # Recording Notes

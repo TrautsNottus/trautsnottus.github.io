@@ -1,6 +1,5 @@
 ---
 title: SIMS Help Centre
-permalink: /docs/
 ---
 
 # SIMS Help Centre
@@ -14,10 +13,10 @@ permalink: /docs/
 
 ## SIMS in the Classroom
 
-- [Class Log](clog/)
-- [Taking the register](clog/take-register/)
-- [Recording lunches](clog/dinner-register/)
-- [Conduct](clog/conduct/)
+- [Class Log](classteacher/clog/)
+- [Taking the register](classteacher/clog/take-register/)
+- [Recording lunches](classteacher/clog/dinner-register/)
+- [Conduct](classteacher/clog/conduct/)
 - [Assessment](assessment/)
 
 ## Set up and running your school
@@ -25,7 +24,7 @@ permalink: /docs/
 - [School Administration](schoolmanagement/)
 - [Assessment](assessment/)
 - [Admissions](pupil/)
-- [Returns](census/)
+- [Returns](schoolmanagement/census/)
 
 ## SIMS Releases
 - [What's New](whats-new/)

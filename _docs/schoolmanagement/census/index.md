@@ -1,6 +1,5 @@
 ---
 title: Census
-permalink: /docs/census/
 breadcrumb: Census
 ---
 

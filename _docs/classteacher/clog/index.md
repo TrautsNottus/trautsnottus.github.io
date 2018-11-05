@@ -1,6 +1,5 @@
 ---
 title: The Class Log
-permalink: /docs/clog/
 ---
 # The Class Log
 

@@ -1,6 +1,5 @@
 ---
 title: Conduct
-permalink: /docs/clog/conduct/
 ---
 
 # Recording Conduct

@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: "Release Note - July 2018"
-permalink: /docs/releasenotes/july-2018/
 release-note: true
 ---
 # SIMS Primary Release Note - v2018.09.28.10

@@ -1,6 +1,5 @@
 ---
 title: Accounts
-permalink: /docs/accounts/
 ---
 
 > Accounts Stuff

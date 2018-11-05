@@ -1,6 +1,5 @@
 ---
 title: Your Home Page
-permalink: /docs/getting-started/your-home-page/
 ---
 
 # Your Home Page

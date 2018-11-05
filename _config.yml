@@ -2,6 +2,8 @@ name: SIMS Primary Online Help
 
 markdown: kramdown
 
+permalink: none
+
 collections:
   docs:
     output: true

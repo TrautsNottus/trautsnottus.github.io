@@ -1,6 +1,5 @@
 ---
 title: Producing School Census Reports
-permalink: /docs/census/producing-school-census-reports/
 ---
 
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.

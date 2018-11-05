@@ -1,6 +1,5 @@
 ---
 title: Managing Pupils
-permalink: /docs/pupil/
 ---
 
 # School Management

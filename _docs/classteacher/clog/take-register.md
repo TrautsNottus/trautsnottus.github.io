@@ -1,7 +1,7 @@
 ---
 title: Take Register
-permalink: /docs/clog/take-register/
 ---
+
 # Taking the Register
 
 > Use the Take Register screen to mark pupils as Present, Absent or Late for registration.

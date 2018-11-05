@@ -1,6 +1,5 @@
 ---
 title: Dinner Register
-permalink: /docs/clog/dinner-register/
 ---
 # Recording the Lunches
 
