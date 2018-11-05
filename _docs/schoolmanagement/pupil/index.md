@@ -7,7 +7,7 @@ title: Managing Pupils
 * [Finding pupils](finding-pupils)
 * [Add a New Pupil](adding-a-new-pupil)
 * Leavers 
-    * [Make a pupil a leavers](make-a-leaver)
-    * [End of school year leaver](bulk-leavers)
+    * [Making a pupil a leavers](make-a-leaver)
+    * [Making pupils leavers](bulk-leavers)
 * [Deleting a Pupil](deleting-a-pupil)
 * [Editing a pupils historical information](/)

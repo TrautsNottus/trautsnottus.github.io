@@ -235,3 +235,14 @@ position: fixed;
   overflow-y: hidden;
 
 }
+
+
+.popover {
+  max-width: 350px;
+}
+
+.popover img
+{
+  width: 100%;
+  margin: 13px 0
+}

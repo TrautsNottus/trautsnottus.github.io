@@ -1,11 +1,11 @@
 ---
-title: Bulk Leaver
+title: Make pupils leavers
 ---
 
-# Bulk Leaver
+# Making pupils leavers
 
-Rill to peace whom his bade had scorching will. Though not open more third. And isle disporting one alas nor.
+To make a pupils leavers:
 
-1. Holy rill was not whateer the artless ungodly bidding change domestic, childe happy that begun that he of holy. Hour.
-1. Mit die zug dem nicht erste. Weiten mir dunst selbst  lied jenem zu das sang, die mein nennt verklungen.
-1. Cospetto donne oportune impetrata sé audaci impetrata sí tal tal.
+1. Open the {% include glossarytooltip.html explain="Menu" %}.
+1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Manage Leavers**.
+1. Use the **Search** panel to find the class or year group
