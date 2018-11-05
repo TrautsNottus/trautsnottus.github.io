@@ -5,7 +5,7 @@ title: Dinner Register
 
 > Use the Dinner Register screen to record pupils lunch preferences
 
-> Note: The Dinner Register requires a Dinner Money licence. [Please visit here to learn more.](take-register/).
+> Note: The Dinner Register requires a Dinner Money licence. [Please visit here to learn more.](take-register).
 {:.note}
 
 ## Opening Dinner Register
