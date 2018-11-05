@@ -8,23 +8,23 @@ title: SIMS Help Centre
 
 - [Introduction to SIMS](getting-started/welcome-to-sims)
 - [Navigating Around](getting-started/navigation)
-- [Your account](accounts)
+- [Your account](accounts/)
 - [More...](getting-started)
 
 ## SIMS in the Classroom
 
-- [Class Log](classteacher/clog)
+- [Class Log](classteacher/clog/)
 - [Taking the register](classteacher/clog/take-register)
 - [Recording lunches](classteacher/clog/dinner-register)
 - [Conduct](classteacher/clog/conduct)
-- [Assessment](assessment)
+- [Assessment](assessment/)
 
 ## Set up and running your school
 
-- [School Administration](schoolmanagement)
-- [Assessment](assessment)
+- [School Administration](schoolmanagement/)
+- [Assessment](assessment/)
 - [Admissions](pupil)
-- [Returns](schoolmanagement/census)
+- [Returns](schoolmanagement/census/)
 
 ## SIMS Releases
 - [What's New](whats-new)
