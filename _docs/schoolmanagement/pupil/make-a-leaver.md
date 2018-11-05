@@ -1,5 +1,5 @@
 ---
-title: Make Leaver
+title: Making a Pupil a Leaver
 ---
 
 # Making a Pupil a Leaver

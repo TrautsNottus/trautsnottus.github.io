@@ -4,7 +4,7 @@ title: Take Register
 
 # Taking the Register
 
-> Use the Take Register screen to mark pupils as Present, Absent or Late for registration.
+> Marking pupils as Present, Absent or Late for registration.
 
 ## Opening Take Register
 
@@ -13,15 +13,15 @@ title: Take Register
 1. Search for {% include glossarytooltip.html explain="Class Log" %} in the {% include glossarytooltip.html explain="Menu Item Search" %}.
 1. Open the Take Register from the toolbar.
 
-
-If you are signed into SIMS as a class teacher, there is a shortcut for Take Register in the quick links.
+> If you are signed into SIMS as a class teacher, there is a shortcut for Take Register in the quick links. 
+{:.tip}
 
 > Note. The Take Register screen only allows you to record registration for the current day, i.e. AM and PM registers.  Use the Edit Marks screen to change marks in the past or the future.
 {:.note}
 
 ## Lateness
 
-When a pupil arrives late for registration, you can change the Absent mark to Late (L) and record the number of minutes Late.
+If a pupil arrives late for registration, you can change the Absent mark to Late (L) and record the number of minutes Late.
 
 We calculate how late the pupil is for you.  But it's up to you to decide what you want to record.
 
@@ -32,7 +32,7 @@ You can add, amend or delete comments about a pupil attendance or absence by cli
 The Add Note button highlights when a comment has been recorded for a pupil.
 
 > Note: The note should relate to the pupil's attendance or absence for that registration. Use Pupil Log Notes to record notes.
-{:.note}
+{:.warning}
 
 ## Additional Marks
 
