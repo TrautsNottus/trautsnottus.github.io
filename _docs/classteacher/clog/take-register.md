@@ -11,7 +11,8 @@ title: Take Register
 
 1. Open the {% include glossarytooltip.html explain="Main Menu" %}.
 1. Search for {% include glossarytooltip.html explain="Class Log" %} in the {% include glossarytooltip.html explain="Menu Item Search" %}.
-1. Open the Take Register from the toolbar.
+1. Choose your class
+1. Open the **Take Register** from the toolbar.
 
 > If you are signed into SIMS as a class teacher, there is a shortcut for Take Register in the quick links. 
 {:.tip}
