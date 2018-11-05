@@ -9,10 +9,10 @@ title: The Class Log
 
 The Class Log lets you perform class-based administration activities, like:
 
-- [Taking the register](take-register/)
-- [Recording lunches](dinner-register/)
-- [Award Conduct Points](conduct/)
-- [Record Notes](notes/)
+- [Taking the register](take-register)
+- [Recording lunches](dinner-register)
+- [Award Conduct Points](conduct)
+- [Record Notes](notes)
 
 > From the Class Log, you can see relevant information about everyone in your class on a single screen.
 {:.tip}
