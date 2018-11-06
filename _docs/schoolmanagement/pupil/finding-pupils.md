@@ -6,9 +6,9 @@ title: Finding Pupils
 
 ## Finding current pupils
 
-Use {% include glossarytooltip.html explain="Find People" %} to look for a pupil. 
+The fastest way to find a current pupil is to use {% include glossarytooltip.html explain="Find People" %}.
 
-> You can also search for parents and guardians, and members of staff
+> You can likewise use **Find People** to search for parents and guardians, and members of staff
 {:.tip}
 
 ## Finding any pupil

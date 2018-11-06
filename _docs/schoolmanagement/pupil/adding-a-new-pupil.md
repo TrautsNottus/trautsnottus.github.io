@@ -4,10 +4,10 @@ title: Adding a New Pupil
 
 # Adding a new pupil
 
-> This routine is usually required only when a pupil joins the school mid-term. At all other times, the admissions process should be used.
+> To avoid duplicate pupil records, we advise adding a new pupil *only* if they join your school mid-term. Otherwise, use the [admissions process](/).
 {:.warning}
 
-Pupils are added via Add Pupil Wizard on the Pupil Record.
+Add a pupil via **Add Pupil Wizard** on the **Pupil Records** screen.
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Pupil Records**.
