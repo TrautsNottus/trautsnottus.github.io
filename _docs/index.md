@@ -11,7 +11,7 @@ title: SIMS Help Centre
 * [Your account](accounts/)
 * [More...](getting-started)
 
-## SIMS in the Classroom
+{% include faq.html explain="SIMS in the Classroom" %}
 
 * [Class Log](classteacher/clog/)
 * [Taking the register](classteacher/clog/take-register)
@@ -19,7 +19,9 @@ title: SIMS Help Centre
 * [Conduct](classteacher/clog/conduct)
 * [Assessment](assessment/)
 
-## Set up and running your school
+{% include faq-end.html  %}
+
+{% include faq.html explain="Set up and running your school" %}
 
 * [Managing pupils](schoolmanagement/pupil/)
 * [Assessment](assessment/)
@@ -27,6 +29,11 @@ title: SIMS Help Centre
 * [Admissions](pupil)
 * [Returns](schoolmanagement/census/)
 
-## SIMS Releases
+{% include faq-end.html  %}
+
+{% include faq.html explain="What's new" %}
+
 * [What's new](whats-new)
 * [Release notes](releasenotes)
+
+{% include faq-end.html  %}
