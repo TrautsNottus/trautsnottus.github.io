@@ -2,9 +2,7 @@
 title: SIMS Help Centre
 ---
 
-# SIMS Help Centre
-
-## Getting Started With SIMS
+# Getting Started With SIMS
 
 * [Introduction to SIMS](getting-started/welcome-to-sims)
 * [Navigating around SIMS](getting-started/navigation)
