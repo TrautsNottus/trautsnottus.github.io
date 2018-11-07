@@ -23,7 +23,7 @@ title: SIMS Help Centre
 
 * [Managing pupils](schoolmanagement/pupil/)
 * [Assessment](assessment/)
-* [Attendance](assessment/)
+* [Attendance](schoolmanagement/attendance/)
 * [Admissions](pupil)
 * [Returns](schoolmanagement/census/)
 
