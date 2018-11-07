@@ -9,20 +9,26 @@ title: Managing Pupils
 * [Deleting a pupil](deleting-a-pupil)
 * [Bulk editing pupil information](/)
 
-## Leavers
+{% include faq.html explain="Leavers" %}
 
 * [Making a pupil a leavers](make-a-leaver)
 * [Making pupils leavers](bulk-leavers)
 
-## Importing and exporting
+{% include faq-end.html  %}
+
+{% include faq.html explain="Importing and exporting pupils" %}
 
 * [CTF](/)
 * [ADT and ATF](/)
 
-## Admissions
+{% include faq-end.html  %}
+
+{% include faq.html explain="Admissions" %}
 
 * [Admission one](/)
 * [Admissions two](/)
+
+{% include faq-end.html  %}
 
 ---
 
