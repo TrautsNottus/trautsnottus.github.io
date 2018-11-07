@@ -2,7 +2,7 @@
 title: Finding Pupils
 ---
 
-# Finding Pupils
+# Finding pupils
 
 ## Finding current pupils
 

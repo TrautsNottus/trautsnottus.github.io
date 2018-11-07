@@ -7,7 +7,7 @@ title: SIMS Help Centre
 ## Getting Started With SIMS
 
 - [Introduction to SIMS](getting-started/welcome-to-sims)
-- [Navigating Around](getting-started/navigation)
+- [Navigating around SIMS](getting-started/navigation)
 - [Your account](accounts/)
 - [More...](getting-started)
 
@@ -21,11 +21,11 @@ title: SIMS Help Centre
 
 ## Set up and running your school
 
-- [School Administration](schoolmanagement/)
+- [Managing pupils](schoolmanagement/pupil/)
 - [Assessment](assessment/)
 - [Admissions](pupil)
 - [Returns](schoolmanagement/census/)
 
 ## SIMS Releases
-- [What's New](whats-new)
-- [Release Notes](releasenotes)
+- [What's new](whats-new)
+- [Release notes](releasenotes)

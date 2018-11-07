@@ -1,21 +1,21 @@
 ---
 title: Record Meals
 ---
-# Recording Meals
+# Recording meals
 
 > Recording pupils lunch preferences
 
-> Note: The Dinner Register requires a Dinner Money licence. [Please visit here to learn more.](take-register).
+> Note: The **Record Meals** requires a Dinner Money licence. [Please visit here to learn more.](take-register).
 {:.note}
 
-## Opening Dinner Register
+## Opening Record Meals
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find the {% include glossarytooltip.html explain="Class Log" %}.
 1. Choose your class
 1. Click **Record Meals** on the toolbar.
 
-## Flood Filling Meals
+## Flood filling meals
 
 You can enter the same meal options for multiple pupils.
 

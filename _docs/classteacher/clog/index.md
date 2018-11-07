@@ -11,10 +11,10 @@ The Class Log lets you do class-based activities, like:
 
 * [Taking the register](take-register)
 * [Recording lunches](dinner-register)
-* [Award Conduct Points](conduct)
-* [Record Notes](notes)
+* [Award conduct points](conduct)
+* [Record notes](notes)
 
-## To open  Class Log
+## To open the Class Log
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Class Log**.

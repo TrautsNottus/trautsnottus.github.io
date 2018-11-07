@@ -2,7 +2,7 @@
 title: Take Register
 ---
 
-# Taking the Register
+# Taking the register
 
 > Marking pupils as Present, Absent or Late for registration.
 
@@ -19,13 +19,13 @@ title: Take Register
 > **Take Register** only allows you to record registration for the current day. Use [Edit Marks](../../schoolmanagement/attendance/edit-marks) to change marks in the past or the future.
 {:.note}
 
-## Recording Lateness
+## Recording lateness
 
 If a pupil arrives late for registration, you can change the Absent mark to Late  by clicking the **L** button on the pupil and record the number of minutes Late.
 
 We calculate{:.icon} how late the pupil is for you.  But you can click the **Minutes Late** button to change the time.
 
-## Viewing and Adding Notes
+## Viewing and adding notes
 
 You can add, amend or delete comments on a pupil's attendance by clicking the **Add Note**{:.icon} button.
 
@@ -34,18 +34,18 @@ The **Add Note** button highlights if a comment has been recorded for a pupil.
 > The note should relate to the pupil's attendance or absence for that registration. Use Pupil Log Notes to record notes.
 {:.warning}
 
-## Extra Marks
+## Extra marks
 
 We've made it easy to enter Present, Absent or Late marks. But if you need to record other marks, click the Additional Marks button.
 
-## Flood Filling Marks
+## Flood filling marks
 
 You can enter the same mark for multiple pupils.
 
 1. Select the pupils by clicking the pupil's image
 1. Click  **Flood Fill Marks** on the toolbar.
 
-## Adding Pupils to the Register
+## Adding pupils to the register
 
 How can you do this?
 

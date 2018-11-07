@@ -4,6 +4,6 @@ title: School Management
 
 # School Management
 
-- [Managing Pupils](pupil/)
-- [Managing Applicants](/applicant)
+- [Managing pupils](pupil/)
+- [Managing applicants](/applicant)
 

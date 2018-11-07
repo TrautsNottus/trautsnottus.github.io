@@ -23,9 +23,14 @@ h3 {
   font-size: 1.3rem;
 }
 
-p + h2 {
+h2{
   margin-top: 2em;
 }
+
+h1 + h2 {
+  margin-top: 1.3em;
+}
+
 p + p {
   margin-top: 1em;
 }
