@@ -9,15 +9,11 @@ Get the most out of SIMS in your school with training guides, tips, customer exa
 ## Common questions
 
 {% include faq.html explain="My Title" %}
-
 If you need help using SIMS services with school, contact...
-
 {% include faq-end.html  %}
 
 {% include faq.html explain="Changing My Password" %}
-
 If you need help using SIMS services with school, contact...
-
 {% include faq-end.html  %}
 
 {% include faq.html explain="How to be more secure" %}
