@@ -13,7 +13,7 @@ title: Take Register
 1. Choose your class.
 1. Click **Take Register** on the toolbar.
 
-> If you are signed into SIMS as a class teacher, there is a shortcut to **Take Register** in the {% include glossarytooltip.html explain="Quick Links" %}. 
+> If you are signed into SIMS as a class teacher, there is a shortcut to **Take Register** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
 > **Take Register** only allows you to record registration for the current day. Use [Edit Marks](../../schoolmanagement/attendance/edit-marks) to change marks in the past or the future.
@@ -48,5 +48,3 @@ You can enter the same mark for multiple pupils.
 ## Adding pupils to the register
 
 How can you do this?
-
-

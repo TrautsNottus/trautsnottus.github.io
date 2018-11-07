@@ -1,5 +1,8 @@
+---
+---
+
 #html {
-  font-size: 13px;
+  font-size: 14px;
   height: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -7,8 +10,8 @@
 #body {
   font-family: -apple-system, BlinkMacSystemFont, Open Sans, Helvetica, Arial,
     Sans-Serif;
-  font-size: 1rem;
-  line-height: 1.7rem;
+  font-size: 2rem;
+
 }
 
 h1 {
@@ -58,25 +61,7 @@ p + ol {
 li {
   padding-left: 5px;
 }
-/*
-abbr[data-original-title],
-abbr[title] {
-  text-decoration: none;
-  position: relative;
-}
-abbr:after {
-  content: "";
 
-  width: 100%;
-  position: absolute;
-  left: 0;
-  bottom: -1px;
-
-  border-width: 0 0 2px;
-  border-style: dotted;
-  border-color: inherit;
-}
-*/
 
 .breadcrumbs {
   width: 100%;
@@ -124,39 +109,43 @@ blockquote {
   border-left: 6px solid #ff7272;
   background-color: #ffffff;
   color: rgb(53, 53, 53);
+
+
+  &.tip {
+    padding-left: 3em;
+    background-image: url(images/svg/lamp.svg);
+    background-repeat: no-repeat;
+  
+    background-size: 2em;
+    border-left: 6px solid rgb(114, 158, 255);
+    background-color: #e4e8ff;
+    color: rgb(0, 0, 173);
+  }
+  
+  &.note {
+    padding-left: 3em;
+    background-image: url(images/svg/pencil2.svg);
+    background-repeat: no-repeat;
+  
+    background-size: 2em;
+    border-left: 6px solid rgb(114, 158, 255);
+    background-color: #e4e8ff;
+    color: rgb(0, 0, 173);
+  }
+  
+  &.warning {
+    padding-left: 3em;
+    background-image: url(images/svg/alarm.svg);
+    background-repeat: no-repeat;
+  
+    background-size: 2em;
+    border-left: 6px solid #ff7272;
+    background-color: #ffe7ef;
+    color: rgb(139, 0, 19);
+  }
+
 }
-blockquote.tip {
-  padding-left: 3em;
-  background-image: url(images/svg/lamp.svg);
-  background-repeat: no-repeat;
 
-  background-size: 2em;
-  border-left: 6px solid rgb(114, 158, 255);
-  background-color: #e4e8ff;
-  color: rgb(0, 0, 173);
-}
-
-blockquote.note {
-  padding-left: 3em;
-  background-image: url(images/svg/pencil2.svg);
-  background-repeat: no-repeat;
-
-  background-size: 2em;
-  border-left: 6px solid rgb(114, 158, 255);
-  background-color: #e4e8ff;
-  color: rgb(0, 0, 173);
-}
-
-blockquote.warning {
-  padding-left: 3em;
-  background-image: url(images/svg/alarm.svg);
-  background-repeat: no-repeat;
-
-  background-size: 2em;
-  border-left: 6px solid #ff7272;
-  background-color: #ffe7ef;
-  color: rgb(139, 0, 19);
-}
 
 .embed-container {
   position: relative;

@@ -26,6 +26,12 @@
 <body id="body">
   <nav id="help-nav">
     <div class="nav-bar">
+        <div class="ocSearchNavBar" id="ocSearchNavBar">
+            <input type="image" src="../../../css/images/svg/back.svg" onclick="javascript:history.back()" aria-label="Previous page" alt="Previous page">
+            <input type="image" src="../../../css/images/svg/next.svg" class="ocSearchNavForward" id="ocSearchNavForward" onclick="javascript: history.forward()" aria-label="Next page" alt="Next page">
+            <input type="image" src="/Images/ocSearchNav_Home.png" class="ocSearchNavHome" id="ocSearchNavHome" onclick="javascript: void(0)" aria-label="Home" alt="Home">
+          </div>
+        
       <button class="previous-icon back" onclick="history.back(-1)"></button>
       <h1 class="nav-bar-header">SIMS Help Centre</h1>
       <button class="previous-icon home" onclick="location.href='{{site.url}}/docs/'"></button>
