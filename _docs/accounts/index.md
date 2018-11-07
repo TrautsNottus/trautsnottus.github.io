@@ -2,7 +2,7 @@
 title: Accounts
 ---
 
-> Accounts Stuff
+# Accounts
 
 * [Changing your password]()
 * [Setting user permissions]()
