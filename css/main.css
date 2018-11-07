@@ -58,7 +58,7 @@ p + ol {
 li {
   padding-left: 5px;
 }
-
+/*
 abbr[data-original-title],
 abbr[title] {
   text-decoration: none;
@@ -76,6 +76,7 @@ abbr:after {
   border-style: dotted;
   border-color: inherit;
 }
+*/
 
 .breadcrumbs {
   width: 100%;

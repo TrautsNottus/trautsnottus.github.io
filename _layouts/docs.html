@@ -16,6 +16,6 @@ layout: default
 
 <script>
 
-    $('[data-toggle="popover"]').popover()
+    $('[data-toggle="popover"]').popover({ constraints: [ { to: 'scrollParent', pin: true } ] })
 
 </script>
