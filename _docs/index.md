@@ -6,26 +6,27 @@ title: SIMS Help Centre
 
 ## Getting Started With SIMS
 
-- [Introduction to SIMS](getting-started/welcome-to-sims)
-- [Navigating around SIMS](getting-started/navigation)
-- [Your account](accounts/)
-- [More...](getting-started)
+* [Introduction to SIMS](getting-started/welcome-to-sims)
+* [Navigating around SIMS](getting-started/navigation)
+* [Your account](accounts/)
+* [More...](getting-started)
 
 ## SIMS in the Classroom
 
-- [Class Log](classteacher/clog/)
-- [Taking the register](classteacher/clog/take-register)
-- [Recording lunches](classteacher/clog/dinner-register)
-- [Conduct](classteacher/clog/conduct)
-- [Assessment](assessment/)
+* [Class Log](classteacher/clog/)
+* [Taking the register](classteacher/clog/take-register)
+* [Recording lunches](classteacher/clog/dinner-register)
+* [Conduct](classteacher/clog/conduct)
+* [Assessment](assessment/)
 
 ## Set up and running your school
 
-- [Managing pupils](schoolmanagement/pupil/)
-- [Assessment](assessment/)
-- [Admissions](pupil)
-- [Returns](schoolmanagement/census/)
+* [Managing pupils](schoolmanagement/pupil/)
+* [Assessment](assessment/)
+* [Attendance](assessment/)
+* [Admissions](pupil)
+* [Returns](schoolmanagement/census/)
 
 ## SIMS Releases
-- [What's new](whats-new)
-- [Release notes](releasenotes)
+* [What's new](whats-new)
+* [Release notes](releasenotes)

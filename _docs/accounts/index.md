@@ -4,5 +4,5 @@ title: Accounts
 
 > Accounts Stuff
 
-- [Changing your password]()
-- [Setting user permissions]()
+* [Changing your password]()
+* [Setting user permissions]()
