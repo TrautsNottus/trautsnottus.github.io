@@ -243,3 +243,14 @@ blockquote {
 .section input[type="checkbox"]:checked + .section-header::after {
   transform: rotate(180deg);
 }
+
+
+a[target="_blank"]:after{
+  content: '';
+  background: no-repeat url(images/svg/external-link.svg);
+  display: inline-block;
+  height: 10px;
+  margin: 0 3px 0 5px;
+  width: 10px;
+  vertical-align: -1px;
+  }
