@@ -18,7 +18,8 @@ and pupils, in order to calculate Hours at Setting for nursery age pupils, for
 School Census purposes.
 
 ----
-### Related articles
+
+### Related articles**
 
 * [Govement stuff on early years](https://www.gov.uk/help-with-childcare-costs/free-childcare-and-education-for-2-to-4-year-olds){:target="_blank"}
-* [Internal Link]()
+* [Internal Link](/)

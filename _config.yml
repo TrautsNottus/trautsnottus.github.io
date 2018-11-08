@@ -20,3 +20,5 @@ defaults:
     type: docs
   values:
     layout: docs
+
+exclude: ['_site', 'node_modules', 'src']

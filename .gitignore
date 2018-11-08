@@ -1,1 +1,5 @@
 _site/
+.DS_Store
+_docs/.DS_Store
+node_modules
+src
