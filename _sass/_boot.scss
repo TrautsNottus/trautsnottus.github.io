@@ -500,3 +500,8 @@ template {
 [hidden] {
   display: none !important;
 }
+
+
+.clearfix {
+  @include clearfix();
+}
