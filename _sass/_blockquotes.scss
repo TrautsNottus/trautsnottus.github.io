@@ -1,0 +1,42 @@
+blockquote {
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  padding: $spacer;
+  margin: $spacer 0;
+
+  background-position: ($spacer/2) $spacer;
+
+  border-left: 6px solid $pink;
+  background-color: #ffffff;
+
+  &.tip {
+    padding-left: 3em;
+    background-image: url(images/svg/lamp.svg);
+    background-repeat: no-repeat;
+    background-size: 2em;
+    border-left: 6px solid rgb(114, 158, 255);
+    background-color: #e4e8ff;
+    color: rgb(0, 0, 173);
+  }
+
+  &.note {
+    padding-left: 3em;
+    background-image: url(images/svg/pencil2.svg);
+    background-repeat: no-repeat;
+    background-size: 2em;
+    border-left: 6px solid rgb(114, 158, 255);
+    background-color: #e4e8ff;
+    color: rgb(0, 0, 173);
+  }
+  &.warning {
+    padding-left: 3em;
+    background-image: url(images/svg/alarm.svg);
+    background-repeat: no-repeat;
+    background-size: 2em;
+    border-left: 6px solid #ff7272;
+    background-color: #ffe7ef;
+    color: rgb(139, 0, 19);
+  }
+}

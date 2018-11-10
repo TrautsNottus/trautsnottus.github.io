@@ -2,8 +2,6 @@
 {% assign splitted_url_parts = page_url | split: '/' %}
 {% capture forLoopMaxInt %}{{ splitted_url_parts.size : | minus: 1}}{% endcapture %}
 {% assign cnt = forLoopMaxInt | plus: 0 %}
-
-
 <nav aria-label="breadcrumb">
     <ol class="breadcrumbs clearfix">
         {% for i in (1..forLoopMaxInt) %}

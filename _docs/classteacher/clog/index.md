@@ -3,7 +3,8 @@ title: The Class Log
 ---
 # The Class Log
 
-> Manage your class from one place.
+Manage your class from one place.
+{:.lead}
 
 {% include youtubePlayer.html id=page.classlogvideo title="This is some labelling" %}
 

@@ -1,0 +1,12 @@
+ul {
+  list-style: disc outside;
+}
+ul,
+ol {
+  padding-left: ($grid-gutter-width / 2);
+}
+ol {
+  li {
+    padding-left: 0.2rem;
+  }
+}

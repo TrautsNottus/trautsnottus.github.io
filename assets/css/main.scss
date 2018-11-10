@@ -1,122 +1,18 @@
 ---
 ---
 
-#html {
-  font-size: 14px;
-  height: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
-#body {
-  font-family: -apple-system, BlinkMacSystemFont, Open Sans, Helvetica, Arial,
-    Sans-Serif;
-  font-size: 1rem;
-}
-h1 {
-  font-size: 2rem;
-}
-h2 {
-  font-size: 1.7rem;
-}
-h3 {
-  font-size: 1.3rem;
-}
-h2 {
-  margin-top: 1.3em;
-}
-h1 + h2 {
-  margin-top: 1.3em;
-}
-p + p {
-  margin-top: 1em;
-}
-p,
-ul,
-ol {
-  margin: 0;
-  padding: 0;
-}
-ul {
-  list-style: disc outside;
-}
-ul,
-ol {
-  padding-left: 1.25em;
-  margin-bottom: 1em;
-}
-p + ul,
-p + ol {
-  margin-top: 1em;
-}
-li {
-  padding-left: 5px;
-}
-.breadcrumbs {
-  width: 100%;
-  background-color: #ffffff;
-  list-style: none;
-  padding: 0;
-  font-size: 11px;
-  line-height: 26px;
-}
-.crumb {
-  float: left;
-}
-.crumb + .crumb {
-  padding: 0px;
-}
-.crumb + .crumb:before {
-  content: "›";
-  padding: 0 0 0 3px;
-}
-table {
-  border-collapse: collapse;
-  border: 1px solid #ccc;
-  margin: 0 0 1rem 0;
-}
-th,
-td {
-  padding: 0.3rem 0.75rem;
-  border: 1px solid #ccc;
-  border-width: 0 1px 1px 0;
-}
-th {
-  vertical-align: bottom;
-}
-blockquote {
-  padding: 1em;
-  margin: 1em 0;
-  background-position: 0.5em 1em;
-  border-left: 6px solid #ff7272;
-  background-color: #ffffff;
-  color: rgb(53, 53, 53);
-  &.tip {
-    padding-left: 3em;
-    background-image: url(images/svg/lamp.svg);
-    background-repeat: no-repeat;
-    background-size: 2em;
-    border-left: 6px solid rgb(114, 158, 255);
-    background-color: #e4e8ff;
-    color: rgb(0, 0, 173);
-  }
-  &.note {
-    padding-left: 3em;
-    background-image: url(images/svg/pencil2.svg);
-    background-repeat: no-repeat;
-    background-size: 2em;
-    border-left: 6px solid rgb(114, 158, 255);
-    background-color: #e4e8ff;
-    color: rgb(0, 0, 173);
-  }
-  &.warning {
-    padding-left: 3em;
-    background-image: url(images/svg/alarm.svg);
-    background-repeat: no-repeat;
-    background-size: 2em;
-    border-left: 6px solid #ff7272;
-    background-color: #ffe7ef;
-    color: rgb(139, 0, 19);
-  }
-}
+@import 
+'boot', 
+'grid',
+'lists',
+'breadcrumbs',
+'table',
+'blockquotes',
+'accordion',
+'popover',
+'type';
+
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -189,59 +85,6 @@ blockquote {
 .popover img {
   width: 100%;
   margin: 13px 0;
-}
-.section {
-  position: relative;
-  margin-bottom: 1px;
-  width: 100%;
-  overflow: hidden;
-  border-bottom: 1px solid #ccc;
-}
-.section input {
-  position: absolute;
-  opacity: 0;
-  z-index: -1;
-}
-.section .section-header {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  display: block;
-  font-weight: bold;
-  line-height: 3em;
-  cursor: pointer;
-  color: #007bff;
-  &:hover {
-    text-decoration: underline;
-  }
-}
-.section-content {
-  max-height: 0;
-  overflow: hidden;
-
-} /* :checked */
-.section input:checked ~ .section-content {
-  max-height: 100vh;
-  
-  padding: 0 0 13px 0px;
-} /* Icon */
-.section .section-header::after {
-  position: absolute;
-  content: "";
-  right: 0;
-  top: 0;
-  display: block;
-  width: 3em;
-  height: 3em;
-  line-height: 3;
-  text-align: center;
-  transition: all 0.35s;
-  background-image: url(images/svg/down.svg);
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-.section input[type="checkbox"]:checked + .section-header::after {
-  transform: rotate(180deg);
 }
 
 

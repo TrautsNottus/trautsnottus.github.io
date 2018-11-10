@@ -1,7 +1,7 @@
 {% capture id %}{{ include.explain | replace: " " "_"}}{% endcapture %}
 {::nomarkdown}
-<div class="section">
+<div class="accordion">
 <input id="{{id}}" type="checkbox" />
-<label for="{{id}}" class="section-header">{{include.explain}}</label>
-<div class="section-content">
+<label for="{{id}}" class="accordion-header">{{include.explain}}</label>
+<div class="accordion-content">
 {:/}
