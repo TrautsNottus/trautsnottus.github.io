@@ -12,14 +12,14 @@ Something about release Notes
 <section>
 
   <ul>
-      {% assign selection = site.docs | where: 'release-note', true %}
+      {%- assign selection = site.docs | where: 'release-note', true -%}
 
-    {% for page in selection %}
+    {%- for page in selection -%}
       <li>
         <a href="{{page.url}}">{{page.title}}</a>
      
       </li>
-    {% endfor %}
+    {%- endfor -%}
     <ul>
 </section>
 

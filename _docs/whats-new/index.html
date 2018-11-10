@@ -10,16 +10,16 @@ title: What's News
 </blockquote>
 
 
-{% assign selection = site.docs | where: 'whats-new', true %}
+{%- assign selection = site.docs | where: 'whats-new', true -%}
 
-{% for page in selection %}
+{%- for page in selection -%}
 <article>
 
   {{ page.content | markdownify }}
 
 </article>
 <br>
-{% endfor %}
+{%- endfor -%}
 
 
 
@@ -32,13 +32,13 @@ title: What's News
   <h2>Older Stuff</h2>
   <br>
   <ul>
-    {% assign selection = site.docs | where: 'whats-new', 'old' %}
+    {%- assign selection = site.docs | where: 'whats-new', 'old' -%}
 
-    {% for page in selection %}
+    {%- for page in selection -%}
     <li>
       <a href="{{page.url}}">{{page.title}}</a>
 
     </li>
-    {% endfor %}
+    {%- endfor -%}
     <ul>
 </section>
