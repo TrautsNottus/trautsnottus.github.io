@@ -17,16 +17,20 @@ Use Edit Marks to:
 1. Choose the date and group
 
 {% include faq.html explain="See more pupil information" %}
+
 Add pupil information columns, e.g. date of birth, by clicking the **Pupil Info Columns** on the toolbar.
+
 {% include faq-end.html  %}
 
 {% include faq.html explain="Viewing and Adding Notes" %}
+
 You can add, amend or delete comments on a pupil's attendance by choosing the cell and clicking the **Add Note**{:.icon} button.
 
 The indicator in the top right of a cell highlights if a comment has been recorded for a pupil.
 
 > The note should relate to the pupil's attendance or absence for that registration. Use Pupil Log Notes to record notes.
 {:.warning}
+
 {% include faq-end.html  %}
 
 ---
