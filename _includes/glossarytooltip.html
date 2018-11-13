@@ -1,4 +1,4 @@
-{%- assign item = site.glossary  | where_exp:"item", "item.title == include.explain"  | first -%}
+{%- assign item = site.glossary  | where_exp:"item", "item.title == include.explain"  | first  -%}
 {::nomarkdown}
 <abbr data-html="true"
 tabindex="0"
@@ -6,4 +6,4 @@ data-toggle="popover"
 data-trigger="hover"
 data-placement="auto"
 title="{{item.title}}"
-data-content="{{ item.content}}">{{item.title}}</abbr>{:/}
+data-content="{{ item.content }}">{{item.title}}</abbr>{:/}

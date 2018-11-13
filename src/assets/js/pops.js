@@ -209,6 +209,7 @@ function setupPopover($initiatingElement) {
             trigger: 'manual',
             animation: false,
             container: 'body',
+            
             placement: $initiatingElement.data('placement') || 'auto',
             html: true
         };
