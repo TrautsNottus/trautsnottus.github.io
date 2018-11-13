@@ -34,7 +34,7 @@
   </div>
 
 
-  <script src="{{ "/assets/js/bundle.js" | prepend: site.baseurl }}"></script>
+
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
     crossorigin="anonymous"></script>
@@ -42,6 +42,7 @@
     crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.js" integrity="sha256-cVd/tGoi+gMVBrq5xd20ZA447xChtJWaESiLQc5LB1c="
     crossorigin="anonymous"></script>
+    <script src="{{ "/assets/js/bundle.js" | prepend: site.baseurl }}"></script>
   <script>
     if (window.parent) {
       window.parent.postMessage({ type: 'help', location: window.location.href }, '*');
@@ -49,16 +50,6 @@
   </script>
 
 
-<script>
-
-    $('[data-toggle="popover"]').popover({
-    viewport: {
-      selector: 'body',
-      padding: 2
-    }
-  })
-
-</script>
 </body>
 
 </html>

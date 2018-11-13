@@ -1,1 +1,1 @@
-console.log("bang")
+import './pops';
