@@ -6,7 +6,7 @@ title: What's New
 <h1>What's new</h1>
 
 <p class="lead">
-  Learn about recently release features.
+  Learn about recently released features.
 </p>
 
 {%- assign selection = site.docs | where: 'whats-new', true -%}
@@ -15,14 +15,9 @@ title: What's New
   <article>
     {{ page.content | markdownify }}
   </article>
-  <br>
 {%- endfor -%}
-
-<hr>
-
 <section>
   <h2>Older</h2>
-  <br>
   <ul>
     {%- assign selection = site.docs | where: 'whats-new', 'old' -%}
     {%- for page in selection -%}

@@ -1,8 +1,8 @@
 ---
-title: SIMS Help
+title: Home
 ---
 
-# Getting Started
+# Getting started
 
 Get the most out of SIMS in your school with guides, tips, examples, and other resources.
 {:.lead}
