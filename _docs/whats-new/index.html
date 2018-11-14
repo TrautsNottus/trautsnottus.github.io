@@ -1,43 +1,33 @@
 ---
 layout: docs
-title: What's News
+title: What's New
 ---
 
-<h1>What's News</h1>
+<h1>What's new</h1>
 
-<blockquote class="summary">
-  Something about What's News
-</blockquote>
-
+<p class="lead">
+  Learn about recently release features.
+</p>
 
 {%- assign selection = site.docs | where: 'whats-new', true -%}
 
 {%- for page in selection -%}
-<article>
-
-  {{ page.content | markdownify }}
-
-</article>
-<br>
+  <article>
+    {{ page.content | markdownify }}
+  </article>
+  <br>
 {%- endfor -%}
-
-
-
-
-
 
 <hr>
 
 <section>
-  <h2>Older Stuff</h2>
+  <h2>Older</h2>
   <br>
   <ul>
     {%- assign selection = site.docs | where: 'whats-new', 'old' -%}
-
     {%- for page in selection -%}
     <li>
       <a href="{{page.url}}">{{page.title}}</a>
-
     </li>
     {%- endfor -%}
     <ul>
