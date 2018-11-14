@@ -10,7 +10,7 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 * [Navigating around SIMS](getting-started/navigation)
 * [Your account](accounts/)
 * [FAQs](getting-started/FAQs)
-* [What's new](whats-new)
+* [What's new](whats-new/)
 
 {% include faq.html explain="SIMS in the Classroom" %}
 
