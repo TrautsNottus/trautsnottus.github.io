@@ -5,10 +5,10 @@ markdown: kramdown
 permalink: none
 
 collections:
+  glossary:
+    output: false 
   docs:
     output: true
-  glossary:
-    output: false
   broadcast:
     output: true
   images:

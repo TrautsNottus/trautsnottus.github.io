@@ -6,4 +6,4 @@ data-toggle="popover"
 data-trigger="hover"
 data-placement="auto"
 title="{{item.title}}"
-data-content="{{ item.content }}">{{item.title}}</abbr>{:/}
+data-content="{{item.content | markdownify | remove: '<p>' | remove: '</p>' | | replace: '"', "'" }}">{{item.title}}</abbr>{:/}
