@@ -7,25 +7,38 @@ title: Navigating around SIMS
 Finding screens and multitasking.
 {:.lead}
 
-## The Main menu
+## The main menu
 
-Open SIMS's menu by clicking the bright pink button in the top left corner of the screen
+To find screens in SIMS.
 
-To quickly find the screen you need, you can type the name into the search.
+1. Open **Menu** {% include icon.html url="bars" title="Menu" %}.
+
+ {% include image.html url="shots/menu.png" title="The Main Menu" %}
+
+{:start="2"}
+2. Type the name of the screen into the **Menu Search** {% include icon.html url="search" title="Search" %}.
+
+## Frequently used
+
+For quick access to commonly used screens, we list often used screens in the **Frequently Used** list.
+
+## Menu organisation
 
 Our menu lists the screens grouped into areas.
 
-If the menu item has extra information, you can hover over the help symbol.
-
-For quick access to commonly used screens, we list often used screens in the Frequently Used list.
+If the menu item has extra information, you can hover over the **Help Symbol** {% include icon.html url="question-circle" title="Search" %}.
 
 ## Quick links
 
-Quick links are short cuts to regualy used screens. And are found in the header.
+*Quick Links* are shortcuts to regularly used screens.
+
+{% include image.html url="shots/quick-links.png" title="The Quick Links" %}
 
 ## Multitasking
 
-To help you switch between your current activities, we keep your current screens open in the tabs.
+To help you switch between your current activities, we keep your current screens open as **Tabs** at the bottom of the screen.
+
+{% include image.html url="shots/tabs.png" title="The Tabs" %}
 
 Related articles
 {:.related}
