@@ -4,28 +4,30 @@ title: Navigating around SIMS
 
 # Navigating around SIMS
 
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.
+Finding screens and multitasking.
+{:.lead}
 
-## Task Menu
+## The Main menu
 
-[Image]
+Open SIMS's menu by clicking the bright pink button in the top left corner of the screen
 
-Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz.
+To quickly find the screen you need, you can type the name into the search.
 
-## Quick Search
+Our menu lists the screens grouped into areas.
 
-[Image]
+If the menu item has extra information, you can hover over the help symbol.
 
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.
+For quick access to commonly used screens, we list often used screens in the Frequently Used list.
 
-## Your Account
+## Quick links
 
-[Image]
+Quick links are short cuts to regualy used screens. And are found in the header.
 
-Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz.
+## Multitasking
 
-## Tabbing
+To help you switch between your current activities, we keep your current screens open in the tabs.
 
-[Image]
+Related articles
+{:.related}
 
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!
+* [Finding People](../../schoolmanagement/attendance/edit-marks) 

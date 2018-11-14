@@ -30,9 +30,8 @@ title: Managing Pupils
 
 {% include faq-end.html  %}
 
----
-
-### Related articles
+Related articles
+{:.related}
 
 * [Applicants](/)
 * [Next](/)

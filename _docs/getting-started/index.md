@@ -2,7 +2,7 @@
 title: Getting started with SIMS
 ---
 
-# Getting started with SIMS
+# Getting started
 
 > SIMS is super-duper
 

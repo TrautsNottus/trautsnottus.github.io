@@ -4,6 +4,9 @@ title: Take Register
 
 # Taking the register
 
+Mark pupils as present, absent or late.
+{:.lead}
+
 ## Opening Take Register
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
@@ -57,8 +60,7 @@ How can you do this?
 
 {% include faq-end.html  %}
 
----
-
-### Related articles
+Related articles
+{:.related}
 
 * [Edit Marks](../../schoolmanagement/attendance/edit-marks) 

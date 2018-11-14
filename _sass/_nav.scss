@@ -3,17 +3,20 @@
   width: 100%;
   top: 0;
   z-index: 1070;
+  background: $gray-100;
+  border-bottom: 1px solid $gray-200;
 }
 
 .nav-bar {
-  background: $gray-100;
-  border-bottom: 1px solid $gray-200;
   padding: 0.5em 1em;
   display: flex;
 }
+
 .nav-bar-header {
-  margin: 0 1em;
-  line-height: 1.5em;
-  flex: 1 1 auto;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  line-height: 3rem;
   font-size: 1.33em;
+  z-index: -1;
 }

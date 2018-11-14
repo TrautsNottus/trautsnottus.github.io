@@ -1,4 +1,4 @@
-## Welcome to SIMS Primary Help
+## Welcome to SIMS Help
 
 You can use the [editor on GitHub](https://github.com/TrautsNottus/trautsnottus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

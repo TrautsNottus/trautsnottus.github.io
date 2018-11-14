@@ -1,13 +1,16 @@
 ---
-title: SIMS Help Centre
+title: SIMS Help
 ---
 
-# Getting Started With SIMS
+# Getting Started
 
-* [Introduction to SIMS](getting-started/welcome-to-sims)
+Get the most out of SIMS in your school with guides, tips, examples, and other resources.
+{:.lead}
+
 * [Navigating around SIMS](getting-started/navigation)
 * [Your account](accounts/)
-* [More...](getting-started)
+* [FAQs](getting-started/FAQs)
+* [What's new](whats-new)
 
 {% include faq.html explain="SIMS in the Classroom" %}
 
@@ -26,12 +29,5 @@ title: SIMS Help Centre
 * [Attendance](schoolmanagement/attendance/)
 * [Admissions](pupil)
 * [Returns](schoolmanagement/census/)
-
-{% include faq-end.html  %}
-
-{% include faq.html explain="What's new" %}
-
-* [What's new](whats-new)
-* [Release notes](releasenotes)
 
 {% include faq-end.html  %}

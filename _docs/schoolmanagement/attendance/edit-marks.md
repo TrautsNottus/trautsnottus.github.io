@@ -33,8 +33,7 @@ The indicator in the top right of a cell highlights if a comment has been record
 
 {% include faq-end.html  %}
 
----
-
-### Related articles
+Related articles
+{:.related}
 
 * [Taking the Register](../../classteacher/clog/take-register)

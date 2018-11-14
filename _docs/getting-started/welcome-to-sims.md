@@ -4,7 +4,6 @@ title: Welcome to SIMS
 
 # Say hello to the next generation of SIMS
 
-Get the most out of SIMS in your school with training guides, tips, customer examples, and other resources.
 
 ## Common questions
 
