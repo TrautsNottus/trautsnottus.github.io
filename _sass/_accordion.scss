@@ -53,3 +53,7 @@
     transform: rotate(180deg);
   }
   
+
+  .accordion + *:not(.accordion) {
+    margin-top: 2rem;
+}

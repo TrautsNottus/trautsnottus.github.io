@@ -32,11 +32,7 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 
 {% include faq-end.html  %}
 
----
----
----
-
-## Alternative
+## Alternative navigation
 
 {% include tile.html url="classteacher/" img="chalkboard" title="Class Teacher" desc="SIMS in the Classroom" %}
 
