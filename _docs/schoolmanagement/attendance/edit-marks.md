@@ -24,7 +24,7 @@ Add pupil information columns, e.g. date of birth, by clicking the **Pupil Info 
 
 {% include faq.html explain="Viewing and Adding Notes" %}
 
-You can add, amend or delete comments on a pupil's attendance by choosing the cell and clicking the **Add Note**{:.icon} button.
+You can add, amend or delete comments on a pupil's attendance by choosing the cell and clicking the **Add Note** {% include icon.html url="comment-o" title="Add Note" %} button.
 
 The indicator in the top right of a cell highlights if a comment has been recorded for a pupil.
 
