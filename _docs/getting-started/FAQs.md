@@ -85,7 +85,11 @@ To sign out of SIMS click the **Sign out** button in the top left corner of SIMS
 
 We deliver data stored in SIMS securely over the internet from the 'Cloud'.
 
-This benefits your school:
+We host SIMS in the Microsoft Azure Cloud, which is the market leading hosted services platform with the highest levels of security, reliability and ‘up-time’. 
+
+All data is stored within the European Union and held in such a way as to fully comply with the requirements as a data controller under the UK General Data Protection Regulations (GDPR).
+
+This benefits your school.
 
 * You no longer need to worry about upgrades or back-ups. 
 * And you can significantly reduce the need to invest in and maintain hardware and software infrastructure.
