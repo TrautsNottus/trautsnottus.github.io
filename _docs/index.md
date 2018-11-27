@@ -8,11 +8,9 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 {:.lead}
 
 * [Navigating around SIMS](getting-started/navigation)
-* [Your account](accounts/)
-* [FAQs](getting-started/FAQs)
-* [What's new](whats-new/)
 
-{% include faq.html explain="SIMS in the Classroom" %}
+
+## Class Teacher
 
 * [Class Log](classteacher/clog/)
 * [Taking the register](classteacher/clog/take-register)
@@ -20,14 +18,16 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 * [Conduct](classteacher/clog/conduct)
 * [Assessment](assessment/)
 
-{% include faq-end.html  %}
+## School management
 
-{% include faq.html explain="Set up and running your school" %}
+*Coming Soon*
 
-* [Managing pupils](schoolmanagement/pupil/)
-* [Assessment](assessment/)
-* [Attendance](schoolmanagement/attendance/)
-* [Admissions](pupil)
-* [Returns](schoolmanagement/census/)
+## Managing your account
 
-{% include faq-end.html  %}
+* [Your account](accounts/)
+
+## Other
+
+* [FAQs](getting-started/FAQs)
+* [What's new](whats-new/)
+
