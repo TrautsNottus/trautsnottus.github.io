@@ -22,9 +22,9 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 
 *Coming Soon*
 
-## Managing your account
+## Your SIMS Account
 
-* [Your account](accounts/)
+* [Your SIMS Account](accounts/)
 
 ## Other
 

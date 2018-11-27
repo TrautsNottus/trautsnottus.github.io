@@ -12,12 +12,13 @@
     z-index: -1;
   }
   .accordion .accordion-header {
+
     position: relative;
     margin: 0;
-    padding: 0;
+    padding: .75rem 2rem .75rem 0;
     display: block;
     font-weight: bold;
-    line-height: 3em;
+    line-height: 1.6rem;
     cursor: pointer;
     color: #007bff;
     &:hover {

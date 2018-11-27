@@ -1,8 +1,17 @@
 ---
-title: Accounts
+title: Your SIMS Account
 ---
 
-# Accounts
+# Your SIMS Account
 
-* [Changing your password]()
-* [Setting user permissions]()
+Learn more about managing your account, safeguarding your data, and protecting your privacy.
+{:.lead}
+
+## Sign-in and security
+
+* [Change or reset your password](password)
+* [Help us protect your account](beingmoresecure)
+
+## Privacy
+
+* [Your Privacy](privacy)
