@@ -4,7 +4,12 @@
 // Headings
 //
 
-h1, h2, h3, h4, h5, h6{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-bottom: $headings-margin-bottom;
   font-family: $headings-font-family;
   font-weight: $headings-font-weight;
@@ -12,16 +17,43 @@ h1, h2, h3, h4, h5, h6{
   color: $headings-color;
 }
 
-h1  { font-size: $h1-font-size; }
-h2 { font-size: $h2-font-size; }
-h3 { font-size: $h3-font-size; }
-h4 { font-size: $h4-font-size; }
-h5 { font-size: $h5-font-size; }
-h6 { font-size: $h6-font-size; }
+h1 {
+  font-size: $h1-font-size;
+}
+h2 {
+  font-size: $h2-font-size;
+}
+h3 {
+  font-size: $h3-font-size;
+}
+h4 {
+  font-size: $h4-font-size;
+}
+h5 {
+  font-size: $h5-font-size;
+}
+h6 {
+  font-size: $h6-font-size;
+}
 
 .lead {
   font-size: $lead-font-size;
   font-weight: $lead-font-weight;
+}
+
+.article-list {
+  h1 {
+    font-size: $h3-font-size;
+  }
+  h2 {
+    font-size: $h4-font-size;
+  }
+  h3 {
+    font-size: $h5-font-size;
+  }
+  h4 {
+    font-size: $h6-font-size;
+  }
 }
 
 //
@@ -34,7 +66,6 @@ hr {
   border: 0;
   border-top: $hr-border-width solid $hr-border-color;
 }
-
 
 //
 // Emphasis
@@ -51,7 +82,6 @@ mark,
   padding: $mark-padding;
   background-color: $mark-bg;
 }
-
 
 //
 // Lists
@@ -72,7 +102,6 @@ mark,
     margin-right: $list-inline-padding;
   }
 }
-
 
 //
 // Misc
@@ -100,9 +129,7 @@ mark,
   }
 }
 
-
-.related
-{
+.related {
   margin-top: 2.5rem;
   font-weight: 600;
   font-size: $h3-font-size;

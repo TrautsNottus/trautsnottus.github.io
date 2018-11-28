@@ -13,7 +13,7 @@ If you are just getting started, these guide will help you get to know SIMS.
 
 * [**What is** SIMS?](getting-started/welcome-to-sims)
 * [A **tour** around SIMS](getting-started/navigation)
-* [Common **questions**](getting-started/FAQs)
+* [**FAQs**](getting-started/FAQs)
 
 ## Class Teacher
 

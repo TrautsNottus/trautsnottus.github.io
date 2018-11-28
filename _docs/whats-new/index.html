@@ -9,17 +9,18 @@ title: What's New
   Learn about recently released features.
 </p>
 
-{%- assign selection = site.docs | where: 'whats-new', true -%}
+{%- assign selection = site.docs | where: 'whats-new', true | reverse -%}
 
 {%- for page in selection -%}
-  <article>
+  <article class="article-list">
     {{ page.content | markdownify }}
   </article>
+  <hr>
 {%- endfor -%}
 <section>
   <h2>Older</h2>
   <ul>
-    {%- assign selection = site.docs | where: 'whats-new', 'old' -%}
+    {%- assign selection = site.docs | where: 'whats-new', 'old' | reverse  -%}
     {%- for page in selection -%}
     <li>
       <a href="{{page.url}}">{{page.title}}</a>
