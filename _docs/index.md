@@ -4,11 +4,15 @@ title: Home
 
 # Getting started
 
-Get the most out of SIMS in your school with guides, tips, examples, and other resources.
+Welcome to SIMS We're glad you're here. Let's get started!
 {:.lead}
 
-* [Navigating around SIMS](getting-started/navigation)
+## Intro to SIMS
 
+If you are just getting started, these guide will help you get to know SIMS.
+
+* [A **tour** around SIMS](getting-started/navigation)
+* [Common **questions**](getting-started/FAQs)
 
 ## Class Teacher
 
@@ -20,6 +24,8 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 
 ## School management
 
+Get the most out of SIMS in your school with guides, tips, examples, and other resources.
+
 *Coming Soon*
 
 ## Your SIMS Account
@@ -28,6 +34,6 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 
 ## Other
 
-* [FAQs](getting-started/FAQs)
+
 * [What's new](whats-new/)
 

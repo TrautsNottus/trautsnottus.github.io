@@ -1,18 +1,18 @@
 ---
-title: FAQs
+title: Common Questions
 ---
 
-# FAQs
+# Common questions
 
-{% include faq.html explain="How do I change the date to UK format" %}
+{% include faq.html explain="How do I change the date to **UK format**" checked="checked" %}
 
-If the dates in SIMS are not displaying in the UK format (dd/MM/yyyy), then this means your browser or operating system's **Language and Region** settings need changing.
+If the dates in SIMS are not displaying in the UK format, i.e. dd/MM/yyyy, then this means your browser or operating system's **Language and Region** settings are *probably* set to US English.
 
 Changing the **Language and Region** settings depend upon your browser and operating system. 
 
-Please google to find how to change your settings.
+Please try googling to find how to change your settings.
 
-Try:
+For example, try:
 
 * [Windows 10 edge change date to UK format](http://www.google.co.uk/search?q=Windows+10+edge+change+date+to+UK+format){:target="_blank"}
 * [Window 7 chrome change date to UK format](http://www.google.co.uk/search?q=Window+7+chrome+change+date+to+UK+format){:target="_blank"}
@@ -21,13 +21,13 @@ Try:
 
 {% include faq-end.html  %}
 
-{% include faq.html explain="How do I find out what’s new in SIMS?" %}
+{% include faq.html explain="How do I find out **what’s new** in SIMS?" %}
 
-To learn about what new SIMS features and enhancements are available to you, see the [What's new](../whats-new/) Help Center article.
+To learn about what new SIMS features and enhancements, see the [What's new](../whats-new/) article.
 
 {% include faq-end.html  %}
 
-{% include faq.html explain="What browsers does SIMS support?" %}
+{% include faq.html explain="What **browsers** does SIMS support?" %}
 
 For the best SIMS experience, you'll want to make sure you're using a supported browser.
 
@@ -42,11 +42,11 @@ For the best SIMS experience, you'll want to make sure you're using a supported 
 > If you use SIMS on an older or unsupported browser, some features might not work.
 {:.warning}
 > Any browser you use needs to have cookies and JavaScript turned on.
-{:.warning}
+{:.note}
 
 {% include faq-end.html  %}
 
-{% include faq.html explain="Does SIMS work on my mobile device?" %}
+{% include faq.html explain="Does SIMS work on my **mobile device**?" %}
 
 We don't officially support mobile devices.
 
@@ -66,13 +66,13 @@ To add a Calendar:
 
 {% include faq-end.html  %}
 
-{% include faq.html explain="How do I change my password?" %}
+{% include faq.html explain="How do I change my **password**?" %}
 
 Please see the [Change or Reset your Password](../accounts/passwords) article.
 
 {% include faq-end.html  %}
 
-{% include faq.html explain="How do I sign out?" %}
+{% include faq.html explain="How do I **sign out**?" %}
 
 To sign out of SIMS click the **Sign out** button in the top left corner of SIMS.
 
@@ -81,7 +81,7 @@ To sign out of SIMS click the **Sign out** button in the top left corner of SIMS
 
 {% include faq-end.html  %}
 
-{% include faq.html explain="Where is my data stored?" %}
+{% include faq.html explain="Where is my **data stored**?" %}
 
 We deliver data stored in SIMS securely over the internet from the 'Cloud'.
 
@@ -96,7 +96,7 @@ This benefits your school.
 
 {% include faq-end.html  %}
 
-{% include faq.html explain="How secure is my data?" %}
+{% include faq.html explain="How **secure** is my data?" %}
 
 We ensure that your data is kept secure with rigorous security processes, regular audits and a guarantee to meet government security compliance standards. 
 
