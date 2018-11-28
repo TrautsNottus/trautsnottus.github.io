@@ -103,3 +103,9 @@ We ensure that your data is kept secure with rigorous security processes, regula
 For more technical details about SIMS security, please see our [Technical Guide](https://myaccount.capita-cs.co.uk/hot-topics/sims-primary-resource-hub/){:target="_blank"} to SIMS Primary.
 
 {% include faq-end.html  %}
+
+{% include faq.html explain="How do I contact the **support desk**?" %}
+
+TBD
+
+{% include faq-end.html  %}
