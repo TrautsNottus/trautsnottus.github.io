@@ -1,25 +1,21 @@
 ---
-title: Welcome to SIMS
+title: What is SIMS
 ---
 
 # Say hello to the next generation of SIMS
 
+Easier and smarter, its evolution of our market-leading MIS.
+{:.lead}
 
-## Common questions
+{% include image.html url="shots/classlog.png" title="The Class Log" %}
 
-{% include faq.html explain="My Title" %}
-If you need help using SIMS services with school, contact...
-{% include faq-end.html  %}
+We've made it easier for everyone across the whole school
+community to get things done.
 
-{% include faq.html explain="Changing My Password" %}
-If you need help using SIMS services with school, contact...
-{% include faq-end.html  %}
+With an advanced user interface, intuitive navigation, slicker
+processes, unique new features and accessible from any
+computer thanks to a secure cloud system - it's a game changer.
 
-{% include faq.html explain="How to be more secure" %}
+We hope you enjoy using SIMS.
 
-1. Open the {% include glossarytooltip.html explain="Menu" %}.
-1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find the {% include glossarytooltip.html explain="Class Log" %}.
-1. Choose your class.
-1. Click **Take Register** on the toolbar.
-
-{% include faq-end.html  %}
+We'd love to hear your thoughts, good or bad. To leave feedback, we have a **Feedback** button at the bottom of this panel.
