@@ -21,7 +21,7 @@ If you are just getting started, these guide will help you get to know SIMS.
 * [Taking the register](classteacher/clog/take-register)
 * [Recording lunches](classteacher/clog/dinner-register)
 * [Conduct](classteacher/clog/conduct)
-* [Assessment](assessment/)
+* [Assessment](classteacher/assessment/)
 
 ## School management
 

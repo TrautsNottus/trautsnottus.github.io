@@ -1,0 +1,93 @@
+---
+title: Programme of Study Tracking Sheet
+---
+
+# Programme of Study Tracking Sheet
+
+Update pupil progress towards Attainment Targets.
+{:.lead}
+
+Open.
+
+1. Choose your Scheme
+
+> We default to the DfE National Curriculum Scheme. Your Assessment Coordinator can customise the Scheme to the school's needs.
+{:.note}
+
+{:start="2"}
+
+1. Choose a Class
+
+> We default to your current class.
+{:.note}
+
+{:start="3"}
+
+1. Choose the Subject and Strand.
+1. Choose the Assessment Period.
+
+> The Assessment Period enables your school to track progress over time.
+{:.tip}
+
+The pupils listed are those in the group on the supplied date. You can change the **Effective Date** if needed.
+
+## Recording assessments
+
+You can record assessments at the Strand level, or the Subject level.
+
+You can record Comments and Next Steps. You can use this information later in reports for parents, or to support further planning.
+
+By default, we hide the Subject, Comment and Next Steps columns. You can see them by changing the **Show Me** options on the toolbar.
+
+## Colouring
+
+On the Tracking Sheet, a cell with solid colouring shows the current assessment.
+
+A cell with diagonal shading shows a previous assessment, making it easy to see what assessments need updating.
+
+## Data Entry
+
+You can enter values into the Tracking Sheet with your keyboard. Alternatively, use the Result Picker.
+
+The Result Picker shows you what grades are available for the assessment. The Result Picker makes it easy to set the grades by tapping on the grade.
+
+The Assessment coordinator can change the grades and their descriptions to meet the needs of the school.
+{:.note}
+
+## Analysis
+
+The Attainment Targets are tracked half termly. We hold the history of each assessment so you can analyse pupil progress over time.
+
+The Tracking Sheet has features to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
+
+## Expectations achieved
+
+The Tracking Sheet shows you the percentage of pupils meeting both the DfE and schools expectations. The percentage shows how many targeted skills are assessed as Secured or higher.
+
+## Summary
+
+At the bottom of the Tracking Sheet is the Summary Panel.
+
+From the Summary Panel, you can see the number and percentage of pupils Mastering, Achieving, or not Achieving a skill.
+
+The calculations are based on how many pupils are meeting the Secured grade or higher.
+
+## Analysis view
+
+## Grade distribution
+
+You can see grade distribution for your class by changing the Marksheet View to Analysis on the toolbar.
+
+## Additional pupil information
+
+You can add additional pupil information to the Tracking Sheet for more context, e.g. if you wanted to see how your pupil premium children are doing.
+
+Click Pupil Info Columns on the toolbar.
+
+## Sorting and Filtering
+
+You can sort any column on the Tracking Sheet, e.g., you can sort on the pupils by their results.
+
+You can use any column on the Tracking Sheet as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
+
+By applying many filters, you can focus your attention on a particular group of pupils.
