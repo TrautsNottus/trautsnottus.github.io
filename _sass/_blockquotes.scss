@@ -19,6 +19,11 @@ blockquote {
     border-left: 6px solid rgb(114, 158, 255);
     background-color: #e4e8ff;
     color: rgb(0, 0, 173);
+    & p:before {
+      content: "Tip: ";
+      font-weight: 900;
+      display: inline;
+    }
   }
 
   &.note {
@@ -29,6 +34,11 @@ blockquote {
     border-left: 6px solid rgb(114, 158, 255);
     background-color: #e4e8ff;
     color: rgb(0, 0, 173);
+    & p:before {
+      content: "Note: ";
+      font-weight: 900;
+      display: inline;
+    }
   }
   &.warning {
     padding-left: 3em;
@@ -38,5 +48,11 @@ blockquote {
     border-left: 6px solid #ff7272;
     background-color: #ffe7ef;
     color: rgb(139, 0, 19);
+
+    & p:before {
+      content: "Warning: ";
+      font-weight: 900;
+      display: inline;
+    }
   }
 }

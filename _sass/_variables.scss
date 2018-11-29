@@ -137,11 +137,20 @@ $spacers: map-merge(
   $spacers
 );
 
-$h1-font-size:                $font-size-base * 2 !default;
-$h2-font-size:                $font-size-base * 1.75 !default;
-$h3-font-size:                $font-size-base * 1.5 !default;
-$h4-font-size:                $font-size-base * 1.25 !default;
-$h5-font-size:                $font-size-base * 1.1 !default;
+/*
+ms(0)   // 1.000rem
+ms(1)   // 1.250rem
+ms(2)   // 1.618rem
+ms(3)   // 2.023rem
+ms(4)   // 2.618rem
+ms(5)   // 3.273rem
+*/
+
+$h1-font-size:                2.023rem !default;
+$h2-font-size:                1.618rem !default;
+$h3-font-size:                1.250rem !default;
+$h4-font-size:                $font-size-base !default;
+$h5-font-size:                $font-size-base !default;
 $h6-font-size:                $font-size-base !default;
 
 $headings-margin-bottom:      ($spacer / 2) !default;
@@ -253,3 +262,4 @@ $thumbnail-box-shadow:              0 1px 2px rgba($black, .075) !default;
 
 $figure-caption-font-size:          90% !default;
 $figure-caption-color:              $gray-600 !default;
+
