@@ -41,7 +41,7 @@ By default, we hide the Subject, Comment and Next Steps columns. You can see the
 
 ## Colouring
 
-On the Tracking Sheet, a cell with solid colouring shows the current assessment.
+On the Tracking Sheet, a cell with solid colouring indicates the current assessment.
 
 A cell with diagonal shading shows a previous assessment, making it easy to see what assessments need updating.
 
@@ -49,7 +49,7 @@ A cell with diagonal shading shows a previous assessment, making it easy to see 
 
 You can enter values into the Tracking Sheet with your keyboard. Alternatively, use the Result Picker.
 
-The Result Picker shows you what grades are available for the assessment. The Result Picker makes it easy to set the grades by tapping on the grade.
+The Result Picker shows you what grades are available for the assessment. The Result Picker makes it easy to set the grades by tapping on the appropriate grade.
 
 The Assessment coordinator can change the grades and their descriptions to meet the needs of the school.
 {:.note}
@@ -68,9 +68,9 @@ The Tracking Sheet shows you the percentage of pupils meeting both the DfE and s
 
 At the bottom of the Tracking Sheet is the Summary Panel.
 
-From the Summary Panel, you can see the number and percentage of pupils Mastering, Achieving, or not Achieving a skill.
+From the Summary Panel you can see the number and percentage of pupils Mastering, Achieving, or not Achieving a skill.
 
-The calculations are based on how many pupils are meeting the Secured grade or higher.
+The calculations are based on how many pupils are attaining the Secured grade or higher.
 
 ## Analysis view
 
@@ -90,4 +90,4 @@ You can sort any column on the Tracking Sheet, e.g., you can sort on the pupils 
 
 You can use any column on the Tracking Sheet as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
 
-By applying many filters, you can focus your attention on a particular group of pupils.
+By applying multiple filters, you can focus your attention on a particular group of pupils.
