@@ -4,31 +4,32 @@ blockquote {
     padding: 0;
   }
   padding: $spacer;
+  padding-left: 3.5em;
   margin: $spacer 0;
-
-  background-position: ($spacer/2) $spacer;
-
-  border-radius: 6px;
-
-  background-clip: padding-box;
-  border: 1px;
-  border-style: solid;
-  line-height: 1.5rem;
-  margin-top: 18px;
-  margin-bottom: 18px;
-  position: relative;
-  padding-left: 3em;
-  background-repeat: no-repeat;
+  background-image: url(images/svg/info.svg);
   background-size: 2em;
+  background-position: 1rem 1.2rem;
+  background-clip: padding-box;
+  background-repeat: no-repeat;
+
+  border-radius: (1rem/2);
+  border: 1px solid;
+  line-height: 1.5rem;
+  position: relative;
+
+  border-color: #4A90E2;
+  background-color: rgb(239, 246, 255);
+
 
   & p:before {
+    content: "Information";
     font-weight: 900;
     display: block;
   }
 
   &.tip {
     background-image: url(images/svg/tip.svg);
-    border-color: #F5A623;
+    border-color: #f5a623;
     background-color: #fdf7e8;
 
     & p:before {
@@ -38,16 +39,17 @@ blockquote {
 
   &.note {
     background-image: url(images/svg/note.svg);
-    border-color: #7ED321;
+    border-color: #7ed321;
     background-color: #e7f6f0;
 
     & p:before {
       content: "Note";
     }
   }
+
   &.warning {
     background-image: url(images/svg/warning.svg);
-    border-color: #F50057;
+    border-color: #f50057;
     background-color: rgb(255, 232, 240);
 
     & p:before {

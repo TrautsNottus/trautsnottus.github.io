@@ -9,10 +9,11 @@ Assessment simplified.
 
 A Marksheet is a spreadsheet, where pupil are listed in rows, and the assessments are listed in columns ({% include glossarytooltip.html explain="Aspects" %}).
 
-In SIMS are two types of Marksheet:
+In SIMS are three types of Marksheet:
 
-1. [General Marksheets](ms-ass),used for {% include glossarytooltip.html explain="Summative" %} assessments, e.g., the end of Key Stage
+1. [General Marksheets](ms-ass), used for {% include glossarytooltip.html explain="Summative" %} assessments, e.g., the end of Key Stage
 1. [Programme of Study Tracking Sheets](ms-pos), used for ongoing {% include glossarytooltip.html explain="Formative" %} evaluation; where you can assess against the curriculum learning objectives.
+1. [Historical Marksheets](ms-historical), used for changing results in the past.
 
 > As a teacher, you have access to Marksheets from the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}

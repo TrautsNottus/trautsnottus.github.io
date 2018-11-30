@@ -9,6 +9,7 @@ Update pupil progress towards Attainment Targets.
 
 Open.
 
+1. Programme of Study Tracking Marksheets
 1. Choose your Scheme
 
 > We default to the DfE National Curriculum Scheme. Your Assessment Coordinator can customise the Scheme to the school's needs.
