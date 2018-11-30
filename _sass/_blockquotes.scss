@@ -8,51 +8,50 @@ blockquote {
 
   background-position: ($spacer/2) $spacer;
 
-  border-left: 6px solid $pink;
-  background-color: #ffffff;
+  border-radius: 6px;
+
+  background-clip: padding-box;
+  border: 1px;
+  border-style: solid;
+  line-height: 1.5rem;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  position: relative;
+  padding-left: 3em;
+  background-repeat: no-repeat;
+  background-size: 2em;
+
+  & p:before {
+    font-weight: 900;
+    display: block;
+  }
 
   &.tip {
-    padding-left: 3em;
-    background-image: url(images/svg/lamp.svg);
-    background-repeat: no-repeat;
-    background-size: 2em;
-    border-left: 6px solid rgb(114, 158, 255);
-    background-color: #e4e8ff;
-    color: rgb(0, 0, 173);
+    background-image: url(images/svg/tip.svg);
+    border-color: #F5A623;
+    background-color: #fdf7e8;
+
     & p:before {
-      content: "Tip: ";
-      font-weight: 900;
-      display: inline;
+      content: "Tip";
     }
   }
 
   &.note {
-    padding-left: 3em;
-    background-image: url(images/svg/pencil2.svg);
-    background-repeat: no-repeat;
-    background-size: 2em;
-    border-left: 6px solid rgb(114, 158, 255);
-    background-color: #e4e8ff;
-    color: rgb(0, 0, 173);
+    background-image: url(images/svg/note.svg);
+    border-color: #7ED321;
+    background-color: #e7f6f0;
+
     & p:before {
-      content: "Note: ";
-      font-weight: 900;
-      display: inline;
+      content: "Note";
     }
   }
   &.warning {
-    padding-left: 3em;
-    background-image: url(images/svg/alarm.svg);
-    background-repeat: no-repeat;
-    background-size: 2em;
-    border-left: 6px solid #ff7272;
-    background-color: #ffe7ef;
-    color: rgb(139, 0, 19);
+    background-image: url(images/svg/warning.svg);
+    border-color: #F50057;
+    background-color: rgb(255, 232, 240);
 
     & p:before {
-      content: "Warning: ";
-      font-weight: 900;
-      display: inline;
+      content: "Warning";
     }
   }
 }
