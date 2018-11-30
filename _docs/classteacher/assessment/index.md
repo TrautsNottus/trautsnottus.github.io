@@ -44,14 +44,14 @@ Formula columns are indicated by an {% include icon.html url="formula-function" 
 
 To see details of the Formula, open the {% include glossarytooltip.html explain="Column Menu" %} and click {% include icon.html url="formula" title="Take Formula" %} **View Formula**.
 
+[Learn more about Formulas](formulas-intro)
+
 Pupil information columns
 : Pupil information column display details about pupil, e.g., their name, class, year group.
 
 Clicking on a pupil's name will show you more details about them, e.g. their photo, date of birth.
 
 You can add additional pupil information to ta Marksheet for more context, e.g. if you wanted to see how your pupil premium children are doing.
-
-[Learn more about Formulas](formulas-intro)
 
 {% include faq-end.html  %}
 
