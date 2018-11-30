@@ -30,12 +30,12 @@
     }
   }
   .accordion-content {
-    max-height: 0;
+    height: 0;
     overflow: hidden;
   
   } /* :checked */
   .accordion input:checked ~ .accordion-content {
-    max-height: 100vh;
+    height: 100%;
     
     padding: 0 0 13px 0px;
   } /* Icon */
