@@ -1,8 +1,6 @@
-alternatively
-above-mentioned
+a number of
 above-listed
-before-mentioned
-aforementioned
+above-mentioned
 abundance
 accede to
 accelerate
@@ -26,78 +24,80 @@ advantageous
 adversely impact on
 advise
 afford an opportunity
+aforementioned
 aggregate
 aircraft
 alleviate
 allocate
 along the lines of
 alternatively
+alternatively
 ameliorate
 an absence of
 and particularly
 and/or
 anticipate
-a number of
+apparent
 applicant
 application
-apparent
-apprehend
 appreciable
+apprehend
 appropriate
 approximate
 arrive onboard
 as a means of
-ascertain
+as far as
+as of yet
 as per
 as prescribed by
-as far as
 as to
 as yet
-as of yet
+ascertain
 assist
 assistance
 at its discretion
+at the moment
+at the present time
+at this point in time
+at this time
+at your earliest convenience
 attain
 attempt
-at the present time
-at this time
-at this point in time
-at the moment
 attributable to
-at your earliest convenience
 authorize
 basis
 be advised
 because of the fact that
+before-mentioned
 beg
 belated
 beneficial
 bestow
+beverage
+bring action against
 by means of
 by reason of
 by virtue of
-beverage
-capable of
 capability
+capable of
 case of
 caveat
 cease
 chauffeur
 clearly
-obviously
 close proximity
 combat environment
 combined
+command
 commence
+complete
 completely revoke
 comply with
-complete
 component
 comprise
 conceal
 concerning
 consensus
-of opinion
 consequently
 consolidate
 constitutes
@@ -108,13 +108,14 @@ currently
 deem
 delete
 demonstrate
+denote
 depart
 designate
 desire
 despite the fact that
 determine
-disclose
 different
+disclose
 discontinue
 disseminate
 does not have
@@ -124,8 +125,8 @@ duly
 during the period
 during the time that
 each and every
-early beginnings
 each...apiece
+early beginnings
 economical
 effect modifications
 elect
@@ -137,9 +138,9 @@ emphasize
 employ
 enclosed please find
 encounter
-endeavor
-end result 
 end product
+end result 
+endeavor
 enquiry
 ensure
 entitlement
@@ -167,17 +168,15 @@ feasible
 females
 finalize
 first
-second
-third
 first and foremost
 flora
 following
 for a period of
 for example
-forfeit
-formulate
 for the purpose of
 for the reason that
+forfeit
+formulate
 forward
 frequently
 function
@@ -188,9 +187,6 @@ has a requirement for
 herein
 heretofore
 herewith
-thereof
-wherefore
-wherein
 honest truth
 however
 identical
@@ -200,39 +196,24 @@ if and when
 immediately
 impacted
 implement
+in a timely manner
 in accordance with
 in addition
 in all likelihood
 in an effort to
-inasmuch
-in a timely manner
 in between
-inception
 in connection with
-incumbent upon
-indicate
-indication
-individual
 in excess of
 in favor of
-initial
-initiate
 in lieu of
 in light of the fact that
 in many cases
 in order that
 in order to
-inquire
 in regard
 in relation to
 in some instances
-inside of
-institute legal proceedings against
-bring action against
-inter alia
-interface
 in terms of
-interpose no objection
 in the amount of
 in the case of
 in the event of
@@ -240,8 +221,23 @@ in the majority of instances
 in the nature of
 in the near future
 in the process of
+in this regard it is of significance that
 in view of
 in view of the above
+inasmuch
+inception
+incumbent upon
+indicate
+indication
+individual
+initial
+initiate
+inquire
+inside of
+institute legal proceedings against
+inter alia
+interface
+interpose no objection
 irregardless
 is applicable to
 is authorized to
@@ -250,13 +246,12 @@ is responsible for
 it appears
 it is
 it is essential
-it is requested
 it is important to add that
-in this regard it is of significance that
-it may be recalled that
 it is interesting to point out that
-liaison
+it is requested
+it may be recalled that
 last will and testament
+liaison
 magnitude
 maintain
 majority
@@ -277,15 +272,15 @@ multiple
 nature
 necessitate
 nevertheless
-notify
 not able
 not accept
 not certain
-not unlike
+not later than
 not many
 not often
 not the same
-not later than
+not unlike
+notify
 notwithstanding
 now comes
 null and void
@@ -294,9 +289,11 @@ objective
 obligate
 observe
 obtain
+obviously
+of opinion
 off of
-on request
 on a daily basis
+on request
 on the basis of
 on the contrary
 on the grounds that
@@ -311,30 +308,30 @@ oversight
 owing to the fact that
 parameters
 participate
+particular point in time
 particulars
 pass away
 per annum
 perchance
 perform
 permit
-pertaining to
 perspire
+pertaining to
 peruse
 PIN number
 place
+point in time
 portion
 possess
-point in time
-particular point in time
 potentiality
 practicable
 preclude
-preowned
 preliminary to
+preowned
+preparatory to
 previous to
 previously
 prior to
-preparatory to
 prior to
 prioritize
 proceed
@@ -342,8 +339,8 @@ procure
 proficiency
 promulgate
 provide
-provided that
 provide guidance for
+provided that
 purchase
 pursuant to
 question as to whether
@@ -371,9 +368,8 @@ retain
 retire
 rigorous
 said
-some
-such
 same
+second
 selection
 separate
 set forth in
@@ -381,40 +377,43 @@ shall
 should you wish
 similar to
 solicit
+some
 state-of-the-art
 strategize
 subject
 submit
 subsequent
-subsequently
 subsequent to
+subsequently
 substantial
 successfully complete
+such
 sufficient
 take action to
 terminate
 than was formerly the case
 the month of
-there are
-therefore
-therein
-there is
 the undersigned
 the use of
+there are
+there is
+therefore
+therein
+thereof
+third
 this activity
-command
-timely
 time period
+timely
 to be violative of
-took advantage of
 to wit
-transpire
+took advantage of
 transmit
+transpire
 type
 under the provisions of
 until such time as
-utilize
 utilization
+utilize
 validate
 variation
 various different
@@ -423,9 +422,12 @@ viable
 warrant
 we are in receipt of
 whereas
+wherefore
+wherein
 whether or not
-whosoever
 whomsoever
+whosoever
+wish
 with a view to
 with reference to
 with regard to

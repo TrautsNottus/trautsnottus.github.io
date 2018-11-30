@@ -18,11 +18,11 @@
   <nav id="help-nav">   
      <h1 class="nav-bar-header">SIMS Help</h1>
     <div class="nav-bar">
-      <input type="image" src="../../../assets/css/images/svg/home.svg" onclick="location.href='{{base.url}}/docs/'"
+      <input type="image" src="{{base.url}}/assets/css/images/svg/home.svg" onclick="location.href='{{base.url}}/docs/'"
         aria-label="Home" alt="Home">&nbsp;&nbsp;
-      <input type="image" src="../../../assets/css/images/svg/back.svg" onclick="javascript:history.back()" aria-label="Previous page"
+      <input type="image" src="{{base.url}}/assets/css/images/svg/back.svg" onclick="javascript:history.back()" aria-label="Previous page"
         alt="Previous page">&nbsp;&nbsp;
-      <input type="image" src="../../../assets/css/images/svg/next.svg" onclick="javascript: history.forward()" aria-label="Next page"
+      <input type="image" src="{{base.url}}/assets/css/images/svg/next.svg" onclick="javascript: history.forward()" aria-label="Next page"
         alt="Next page">
   
     </div>
@@ -49,7 +49,6 @@
       window.parent.postMessage({ type: 'help', location: window.location.href }, '*');
     }
   </script>
-
 
 </body>
 

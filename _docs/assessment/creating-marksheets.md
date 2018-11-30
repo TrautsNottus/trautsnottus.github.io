@@ -6,10 +6,10 @@ title: Creating Marksheets
 
 
 | Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| --------------- | --------------- | -------------- |
+| ambrosia        | gala            | red delicious  |
+| pink lady       | jazz            | macintosh      |
+| honeycrisp      | granny smith    | fuji           |
 
 * Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.
 * Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack.

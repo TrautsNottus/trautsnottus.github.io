@@ -31,13 +31,13 @@ To learn about what new SIMS features and enhancements, see the [What's new](../
 
 For the best SIMS experience, you'll want to make sure you're using a supported browser.
 
-| Browser | Version |
-|-------------------    |----------------------    |
-| Chrome                | Latest                   |
-| Edge                  | Version 38 and newer     |
-| Firefox               | Latest                   |
-| Internet Explorer 11  | Version 11 and newer     |
-| Safari                | Version 11 and newer     |
+| Browser              | Version              |
+| -------------------- | -------------------- |
+| Chrome               | Latest               |
+| Edge                 | Version 38 and newer |
+| Firefox              | Latest               |
+| Internet Explorer 11 | Version 11 and newer |
+| Safari               | Version 11 and newer |
 
 > If you use SIMS on an older or unsupported browser, some features might not work.
 {:.warning}
