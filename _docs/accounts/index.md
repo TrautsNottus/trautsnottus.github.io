@@ -9,7 +9,7 @@ Learn more about managing your account, safeguarding your data, and protecting y
 
 ## Sign-in and security
 
-* [Change or reset your password](password)
+* [Change or reset your password](passwords)
 * [Help us protect your account](beingmoresecure)
 
 ## Privacy
