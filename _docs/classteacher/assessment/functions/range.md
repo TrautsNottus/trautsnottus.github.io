@@ -10,9 +10,9 @@ RANGE(condition 1, [condition 2])
 
 ## Purpose
 
-This formula will calculate the range between the two values specified. 
+This formula calculates the range between the two values specified. 
 
-E.g., The highest value - lowest value. The value returned will always be positive.
+E.g., The highest value - lowest value. The value returned is positive.
 
 ## Returns
 

@@ -5,7 +5,7 @@ title: IF
 # IF
 
 ~~~ sql
-IF(something is true, then do this, otherwise do this)
+IF(something_is_true, then do_this, otherwise_do_this)
 ~~~
 
 ## Purpose
@@ -28,22 +28,22 @@ Any
 
 ## Arguments
 
-something is true
+something_is_true
 : This argument defines the condition for the IF formula. 
 
 For grade or pupil information the value must be supplied using quotation marks, "A". Pupil information can only be used with the = operator. 
 
 For marks, no quotation is required 100.
 
-then do this
-: The outcome that will apply if the condition is evaluated to true. 
+then_do_this
+: The outcome that applies if the condition is evaluated to true. 
 
 For a grade or text output, the value must be supplied using quotation marks, "A". 
 
 For a mark output, no quotation is required 100. A formula can be an outcome.
 
-otherwise do this
-: The outcome that will apply if the condition is evaluated to false. 
+otherwise_do_this
+: The outcome that applies if the condition is evaluated to false. 
 
 For a grade or text output, the value must be supplied using quotation marks, "A". 
 

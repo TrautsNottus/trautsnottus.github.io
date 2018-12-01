@@ -9,7 +9,7 @@ MEDIAN(condition 1, [condition 2])
 
 ## Purpose
 
-This formula will calculate the median of the values found in the columns you select.
+This formula calculates the median of the values found in the columns you select.
 
 ## Returns
 

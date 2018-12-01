@@ -14,7 +14,7 @@ To open Marksheets
 > We show  Marksheets created for your classes.
 {:.note}
 
-Marksheets can get large in some schools. We include column filtering to help you focus on the assessments relevant to what you want to see today. E.g., you can focus on the year to Autumn term. Or you could choose to filter the Marksheet to a specific subject.
+Marksheets can get large in some schools. We include column filtering to help you focus on the assessments relevant to what you want to see today. E.g., you can focus on the year to Autumn term. Or you can choose to filter the Marksheet to a specific subject.
 
 # Data Entry
 
@@ -40,7 +40,7 @@ E.g., if you want to see pupil premium children, you can apply a filter to that 
 
 Open the column menu and choose the filters.
 
-By applying many filters, you can further narrow your focus to a specific group of pupils.
+By applying multiple filters, you can further narrow your focus to a specific group of pupils.
 
 Removing a filter sets the Marksheet by choosing XX from the column menu.
 

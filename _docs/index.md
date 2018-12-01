@@ -9,7 +9,7 @@ Welcome to SIMS We're glad you're here. Let's get started!
 
 ## Intro to SIMS
 
-If you are just getting started, these guide will help you get to know SIMS.
+If you are just getting started, these guides help you get to know SIMS.
 
 * [**What is** SIMS?](getting-started/welcome-to-sims)
 * [A **tour** around SIMS](getting-started/navigation)

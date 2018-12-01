@@ -18,9 +18,9 @@ Follow the steps to change your password.
 {:start="2"}
 
 1. Under **User Account**, click **Change Password**.
-1. You will be taken to the **Change Your Password** screen.
+1. You'll be taken to the **Change Your Password** screen.
 1. Enter your new password.
-1. You will need to sign in to SIMS again with your new password.
+1. You'll need to sign in to SIMS again with your new password.
 
 ## Reset your password
 

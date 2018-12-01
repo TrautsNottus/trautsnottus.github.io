@@ -58,9 +58,9 @@ You can compare two values with the following operators. Comparing two values re
 
 ## Parentheses
 
-In some cases, the order in which a calculation is performed can affect the return value of the formula.
+There are cases where the order in which a calculation is performed affects the return value of the formula.
 
-To change the order of evaluation, enclose in parentheses the part of the formula to be calculated first. For example: 
+To change the order of evaluation, enclose in parentheses the part of the formula to be calculated first. For example:
 
 ~~~ math
 1 + 2 * 3 = 7

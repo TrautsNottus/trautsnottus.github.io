@@ -9,7 +9,7 @@ MAX(condition 1, [condition 2])
 
 ## Purpose
 
-The formula will calculate the result with the maximum value in a set of selected columns. 
+The formula calculates the result with the maximum value in a set of selected columns. 
 
 This formula can only reference mark aspects.
 

@@ -18,7 +18,7 @@ The formula uses any values defined in the grade set or values that you supply w
 
 E.g., A grade set has the following grades and values: A = 100 B = 75 C = 50 When calculating the formula, if a result of 75 is found, then a B is returned in the outcome cell. 
 
-If a value of 50 is found, then a C is returned and so on.
+If a value of 50 is found, then a C is returned.
 
 ## Returns
 

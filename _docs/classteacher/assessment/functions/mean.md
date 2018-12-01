@@ -9,7 +9,7 @@ MEAN(condition 1, [condition 2])
 
 ## Purpose
 
-This formula will calculate the mean of the values found in the columns you select.
+This formula calculates the mean of the values found in the columns you select.
 
 ## Returns
 

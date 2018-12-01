@@ -50,7 +50,7 @@ For the best SIMS experience, you'll want to make sure you're using a supported 
 
 We don't officially support mobile devices.
 
-We will be providing support for tablet devices (e.g. iPads) in the future.
+We'll be providing support for tablet devices (e.g. iPads) in the future.
 
 {% include faq-end.html  %}
 
@@ -76,7 +76,7 @@ Please see the [Change or Reset your Password](../accounts/passwords) article.
 
 To sign out of SIMS click the **Sign out** button in the top left corner of SIMS.
 
-> To help keep your data secure, SIMS will lock your screen after 20 minutes, then sign you out after 30 minutes.
+> To help keep your data secure, we lock your screen after 20 minutes, then sign you out after 30 minutes.
 {: .note}
 
 {% include faq-end.html  %}

@@ -7,32 +7,23 @@ title: Programme of Study Tracking Sheet
 Update pupil progress towards Attainment Targets.
 {:.lead}
 
-Open.
+## Open Programme of Study Tracking Marksheets
 
-1. Programme of Study Tracking Marksheets
-1. Choose your Scheme
+1. Open the {% include glossarytooltip.html explain="Menu" %}.
+1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Programme of Study Tracking Marksheets**.
+1. Choose your {% include glossarytooltip.html explain="Scheme" %}.
 
 > We default to the DfE National Curriculum Scheme. Your Assessment Coordinator can customise the Scheme to the school's needs.
-{:.note}
 
-{:start="2"}
+{:start="4"}
 
 1. Choose a Class
-
-> We default to your current class.
-{:.note}
-
-{:start="3"}
-
 1. Choose the Subject and Strand.
-1. Choose the Assessment Period.
+1. Choose the {% include glossarytooltip.html explain="Assessment Period" %}.
 
-> The Assessment Period enables your school to track progress over time.
-{:.tip}
+> The pupils listed are those in the group on the supplied date. You can change the **Effective Date** if needed.
 
-The pupils listed are those in the group on the supplied date. You can change the **Effective Date** if needed.
-
-## Recording assessments
+{% include faq.html explain="Recording assessments" %}
 
 You can record assessments at the Strand level, or the Subject level.
 
@@ -40,20 +31,26 @@ You can record Comments and Next Steps. You can use this information later in re
 
 By default, we hide the Subject, Comment and Next Steps columns. You can see them by changing the **Show Me** options on the toolbar.
 
-## Colouring
+{% include faq-end.html %}
+
+{% include faq.html explain="Colours" %}
 
 On the Tracking Sheet, a cell with solid colouring indicates the current assessment.
 
 A cell with diagonal shading shows a previous assessment, making it easy to see what assessments need updating.
 
-## Data Entry
+{% include faq-end.html  %}
+
+{% include faq.html explain="Data Entry" %}
 
 You can enter values into the Tracking Sheet with your keyboard. Alternatively, use the Result Picker.
 
-The Result Picker shows you what grades are available for the assessment. The Result Picker makes it easy to set the grades by tapping on the appropriate grade.
+The Result Picker shows you what grades are available for the assessment. The Result Picker makes it easy to set the grades by tapping on the grade.
 
 The Assessment coordinator can change the grades and their descriptions to meet the needs of the school.
 {:.note}
+
+{% include faq-end.html  %}
 
 ## Analysis
 
