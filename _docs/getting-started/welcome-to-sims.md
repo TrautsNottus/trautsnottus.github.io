@@ -7,7 +7,7 @@ title: What is SIMS
 Easier and smarter, its evolution of our market-leading MIS.
 {:.lead}
 
-{% include image.html url="shots/classlog.png" title="The Class Log" %}
+{% include image.html url="shots/classlog.png" title="The **Class Log**" %}
 
 We've made it easier for everyone across the whole school
 community to get things done.

@@ -13,7 +13,7 @@ Follow the steps to change your password.
 
 1. Open **Your Account** settings
 
- {% include image.html url="shots/youraccount.png" title="Your Account Settings" %}
+ {% include image.html url="shots/youraccount.png" title="Your account settings" %}
 
 {:start="2"}
 

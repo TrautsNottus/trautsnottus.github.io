@@ -13,12 +13,12 @@ To find screens in SIMS:
 
 1. Open the **Menu**.
 
- {% include image.html url="shots/menu.png" title="The Main Menu" %}
+ {% include image.html url="shots/menu.png" title="The **Main Menu**" %}
 
 {:start="2"}
 2. Type the name of the screen into the **Menu Search** {% include icon.html url="search" title="Search" %}.
 
-{% include image.html url="shots/menusearch.png" title="The Menu Search" %}
+{% include image.html url="shots/menusearch.png" title="The **Menu Search**" %}
 
 ## Frequently used
 
@@ -39,13 +39,13 @@ Our menu lists the screens grouped into areas.
 
 **Quick Links** are shortcuts to regularly used screens.
 
-{% include image.html url="shots/quick-links.png" title="The Quick Links" %}
+{% include image.html url="shots/quick-links.png" title="The **Quick Links**" %}
 
 ## Multitasking
 
 To help you switch between your current activities, we keep your current screens open as **Tabs** at the bottom of the screen.
 
-{% include image.html url="shots/tabs.png" title="The Tabs" %}
+{% include image.html url="shots/tabs.png" title="The **Tabs**" %}
 
 Related articles
 {:.related}

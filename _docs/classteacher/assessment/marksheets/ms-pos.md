@@ -17,75 +17,88 @@ Update pupil progress towards Attainment Targets.
 
 {:start="4"}
 
-1. Choose a Class
-1. Choose the Subject and Strand.
+1. Choose your **Class**
+1. Choose the **Subject** and **Strand**.
 1. Choose the {% include glossarytooltip.html explain="Assessment Period" %}.
 
 > The pupils listed are those in the group on the supplied date. You can change the **Effective Date** if needed.
 
-{% include faq.html explain="Recording assessments" %}
+{% include faq.html explain="Hiding and showing columns" %}
 
-You can record assessments at the Strand level, or the Subject level.
+On the **Tracking Sheet**, you can record assessments at the **Strand** level, or the **Subject** level.
 
-You can record Comments and Next Steps. You can use this information later in reports for parents, or to support further planning.
+Further, you can record **Comments** and **Next Steps**. You can use this information later in reports for parents, or to support further planning.
 
-By default, we hide the Subject, Comment and Next Steps columns. You can see them by changing the **Show Me** options on the toolbar.
+By default, we hide the **Subject**, **Comment** and **Next Steps** columns. You can see them by changing the **Show Me** options on the toolbar.
+
+{% include image.html url="shots/pos-show-me.png" title="The **Show Me** menu" %}
 
 {% include faq-end.html %}
 
-{% include faq.html explain="Colours" %}
+{% include faq.html explain="Assessment status" %}
 
-On the Tracking Sheet, a cell with solid colouring indicates the current assessment.
+On the **Tracking Sheet**, a cell with solid colouring indicates the current assessment.
 
 A cell with diagonal shading shows a previous assessment, making it easy to see what assessments need updating.
 
+{% include image.html url="shots/pos-colours.png" title="Cell statuses showing both *current* and *previous* assessements" %}
+
 {% include faq-end.html  %}
 
-{% include faq.html explain="Data Entry" %}
+{% include faq.html explain="Data entry" %}
 
-You can enter values into the Tracking Sheet with your keyboard. Alternatively, use the Result Picker.
-
-The Result Picker shows you what grades are available for the assessment. The Result Picker makes it easy to set the grades by tapping on the grade.
-
-The Assessment coordinator can change the grades and their descriptions to meet the needs of the school.
-{:.note}
+You can enter values into the **Tracking Sheet** with your keyboard. Alternatively, use the [**Result Picker**](result-picker).
 
 {% include faq-end.html  %}
 
 ## Analysis
 
-The Attainment Targets are tracked half termly. We hold the history of each assessment so you can analyse pupil progress over time.
+The **Tracking Sheet** has features to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
 
-The Tracking Sheet has features to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
+{% include faq.html explain="Expectations achieved" %}
 
-## Expectations achieved
+The **Tracking Sheet** shows you the percentage of pupils meeting both the DfE and schools expectations. The percentage shows how many targeted skills are assessed as Secured or higher.
 
-The Tracking Sheet shows you the percentage of pupils meeting both the DfE and schools expectations. The percentage shows how many targeted skills are assessed as Secured or higher.
+{% include faq-end.html  %}
 
-## Summary
+{% include faq.html explain="Summary panel" %}
 
-At the bottom of the Tracking Sheet is the Summary Panel.
+At the bottom of the **Tracking Sheet** is the **Summary** panel.
 
-From the Summary Panel you can see the number and percentage of pupils Mastering, Achieving, or not Achieving a skill.
+From the **Summary** panel you can see the number and percentage of pupils Mastering, Achieving, or not Achieving a skill.
 
 The calculations are based on how many pupils are attaining the Secured grade or higher.
 
-## Analysis view
+By default, we hide the **Summary**. To see the **Summary** click the **Summary** button at the bottom of the **Tracking Sheet**.
 
-## Grade distribution
+{% include faq-end.html  %}
 
-You can see grade distribution for your class by changing the Marksheet View to Analysis on the toolbar.
+{% include faq.html explain="Grade distribution" %}
 
-## Additional pupil information
+You can see grade distribution for your class by changing the **Marksheet View** from **Spreadsheet** {% include icon.html url="table" title="Spreadsheet" %} to **Analysis** {% include icon.html url="bar-chart" title="Analysis View" %} on the toolbar.
 
-You can add additional pupil information to the Tracking Sheet for more context, e.g. if you wanted to see how your pupil premium children are doing.
+{% include faq-end.html  %}
 
-Click Pupil Info Columns on the toolbar.
+{% include faq.html explain="Additional pupil information" %}
 
-## Sorting and Filtering
+You can add additional pupil information to the **Tracking Sheet** for more context, e.g. if you wanted to see how your pupil premium children are doing.
 
-You can sort any column on the Tracking Sheet, e.g., you can sort on the pupils by their results.
+You can add or remove the pupil information columns by clicking **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} on the toolbar.
 
-You can use any column on the Tracking Sheet as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
+{% include faq-end.html  %}
 
-By applying multiple filters, you can focus your attention on a particular group of pupils.
+{% include faq.html explain="Sorting" %}
+
+You can sort any column on the **Tracking Sheet**, e.g., you can sort on the pupils by their results.
+
+[Learn more about sorting marksheets](sorting)
+
+{% include faq-end.html %}
+
+{% include faq.html explain="Filtering" %}
+
+You can use any column on the **Tracking Sheet** as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
+
+[Learn more about filtering marksheets](filtering)
+
+{% include faq-end.html  %}
