@@ -41,7 +41,7 @@ On the tracking sheet, a cell with solid colouring indicates the current assessm
 
 A cell with diagonal shading shows a previous assessment, making it easy to see what assessments need updating.
 
-{% include image.html url="shots/pos-colours.png" title="Cell statuses showing both *current* and *previous* assessements" %}
+{% include image.html url="shots/pos-colours.png" title="Cell statuses showing both current (solid) and previous (shaded) assessements" %}
 
 {% include faq-end.html  %}
 

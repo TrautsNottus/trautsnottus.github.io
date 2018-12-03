@@ -168,7 +168,7 @@ $paragraph-margin-bottom:   1rem !default;
 $dt-font-weight:              $font-weight-bold !default;
 
 
-$link-color:                theme-color("primary") !default;
+$link-color:                #007bff !default;
 $link-decoration:           none !default;
 $link-hover-color:          darken($link-color, 15%) !default;
 $link-hover-decoration:     underline !default;
