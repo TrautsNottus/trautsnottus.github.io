@@ -6,7 +6,7 @@ title: Filtering Markheets
 
 Filtering displays only the rows that meet criteria that you specify and hides rows that you do not want displayed.
 
-You can use any column on the **Marksheet** as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
+You can use any column on the marksheet as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
 
 > You can also filter by more than one column. By applying multiple filters, you can focus your attention on a particular group of pupils.
 {:.tip}

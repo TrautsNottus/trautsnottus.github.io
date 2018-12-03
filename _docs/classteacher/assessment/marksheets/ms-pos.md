@@ -25,11 +25,11 @@ Update pupil progress towards Attainment Targets.
 
 {% include faq.html explain="Hiding and showing columns" %}
 
-On the **Tracking Sheet**, you can record assessments at the **Strand** level, or the **Subject** level.
+On the tracking sheet, you can record assessments at the {% include glossarytooltip.html explain="Strand" %} level, or the {% include glossarytooltip.html explain="Subject" %} level.
 
-Further, you can record **Comments** and **Next Steps**. You can use this information later in reports for parents, or to support further planning.
+Further, you can record Comments and Next Steps. You can use this information later in reports for parents, or to support further planning.
 
-By default, we hide the **Subject**, **Comment** and **Next Steps** columns. You can see them by changing the **Show Me** options on the toolbar.
+By default, we hide the Subject, Comment and Next Steps columns. You can see them by changing the **Show Me** options on the toolbar.
 
 {% include image.html url="shots/pos-show-me.png" title="The **Show Me** menu" %}
 
@@ -37,7 +37,7 @@ By default, we hide the **Subject**, **Comment** and **Next Steps** columns. You
 
 {% include faq.html explain="Assessment status" %}
 
-On the **Tracking Sheet**, a cell with solid colouring indicates the current assessment.
+On the tracking sheet, a cell with solid colouring indicates the current assessment.
 
 A cell with diagonal shading shows a previous assessment, making it easy to see what assessments need updating.
 
@@ -47,29 +47,29 @@ A cell with diagonal shading shows a previous assessment, making it easy to see 
 
 {% include faq.html explain="Data entry" %}
 
-You can enter values into the **Tracking Sheet** with your keyboard. Alternatively, use the [**Result Picker**](result-picker).
+You can enter values into the tracking sheet with your keyboard. Alternatively, use the [Result Picker](result-picker).
 
 {% include faq-end.html  %}
 
 ## Analysis
 
-The **Tracking Sheet** has features to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
+The tracking sheet has features to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
 
 {% include faq.html explain="Expectations achieved" %}
 
-The **Tracking Sheet** shows you the percentage of pupils meeting both the DfE and schools expectations. The percentage shows how many targeted skills are assessed as Secured or higher.
+The tracking sheet shows you the percentage of pupils meeting both the DfE and schools expectations. The percentage shows how many targeted skills are assessed as Secured or higher.
 
 {% include faq-end.html  %}
 
 {% include faq.html explain="Summary panel" %}
 
-At the bottom of the **Tracking Sheet** is the **Summary** panel.
+At the bottom of the tracking sheet is a summary panel.
 
-From the **Summary** panel you can see the number and percentage of pupils Mastering, Achieving, or not Achieving a skill.
+From the summary panel you can see the number and percentage of pupils mastering, achieving, or not achieving a skill.
 
 The calculations are based on how many pupils are attaining the Secured grade or higher.
 
-By default, we hide the **Summary**. To see the **Summary** click the **Summary** button at the bottom of the **Tracking Sheet**.
+By default, we hide the summary panel. To see the summary panel click the **Summary** button at the bottom of the tracking sheet.
 
 {% include faq-end.html  %}
 
@@ -81,7 +81,7 @@ You can see grade distribution for your class by changing the **Marksheet View**
 
 {% include faq.html explain="Additional pupil information" %}
 
-You can add additional pupil information to the **Tracking Sheet** for more context, e.g. if you wanted to see how your pupil premium children are doing.
+You can add additional pupil information to the tracking sheet for more context, e.g. if you wanted to see how your pupil premium children are doing.
 
 You can add or remove the pupil information columns by clicking **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} on the toolbar.
 
@@ -89,7 +89,7 @@ You can add or remove the pupil information columns by clicking **Pupil Info Col
 
 {% include faq.html explain="Sorting" %}
 
-You can sort any column on the **Tracking Sheet**, e.g., you can sort on the pupils by their results.
+You can sort any column on the tracking sheet, e.g., you can sort on the pupils by their results.
 
 [Learn more about sorting marksheets](sorting)
 
@@ -97,7 +97,7 @@ You can sort any column on the **Tracking Sheet**, e.g., you can sort on the pup
 
 {% include faq.html explain="Filtering" %}
 
-You can use any column on the **Tracking Sheet** as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
+You can use any column on the tracking sheet as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
 
 [Learn more about filtering marksheets](filtering)
 

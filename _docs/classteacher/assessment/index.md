@@ -11,9 +11,9 @@ A marksheet is a spreadsheet, where pupil are listed in rows, and the assessment
 
 In SIMS are three types of marksheet:
 
-1. [**General Marksheets**](marksheets/ms-ass), used for {% include glossarytooltip.html explain="Summative" %} assessments, e.g., the end of Key Stage
-1. [**Programme of Study Tracking Sheets**](marksheets/ms-pos), used for ongoing {% include glossarytooltip.html explain="Formative" %} evaluation; where you can assess against the curriculum learning objectives.
-1. [**Historical Marksheets**](marksheets/ms-historical), used for changing results in the past.
+1. [General Marksheets](marksheets/ms-ass), used for {% include glossarytooltip.html explain="Summative" %} assessments, e.g., the end of Key Stage
+1. [Programme of Study Tracking Sheets](marksheets/ms-pos), used for ongoing {% include glossarytooltip.html explain="Formative" %} evaluation; where you can assess against the curriculum learning objectives.
+1. [Historical Marksheets](marksheets/ms-historical), used for changing results in the past.
 
 > As a teacher, you have access to marksheets from the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
@@ -63,9 +63,9 @@ You can add additional pupil information to ta marksheet for more context, e.g. 
 
 {% include faq.html explain="Result Types" %}
 
-There are five **Result Types**: Grade, Mark (Integer), Mark (Decimal), Age, Comment
+There are five Result Types: Grade, Mark (Integer), Mark (Decimal), Age, Comment
 
-[Learn more about **Result Types**](result-types)
+[Learn more about Result Types](result-types)
 
 {% include faq-end.html  %}
 
