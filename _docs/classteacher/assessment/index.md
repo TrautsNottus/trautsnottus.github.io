@@ -63,7 +63,13 @@ You can add additional pupil information to ta marksheet for more context, e.g. 
 
 {% include faq.html explain="Result Types" %}
 
-There are five Result Types: Grade, Mark (Integer), Mark (Decimal), Age, Comment
+There are five Result Types:
+
+1. Grade
+2. Mark (Integer)
+3. Mark (Decimal)
+4. Age
+5. Comment
 
 [Learn more about Result Types](result-types)
 
