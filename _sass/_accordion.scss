@@ -37,7 +37,9 @@
   .accordion input:checked ~ .accordion-content {
     height: 100%;
     
-    padding: 0 0 13px 0px;
+    padding: 0 0 0 1rem;
+    border-left: 1px solid  $gray-400;
+
   } /* Icon */
   .accordion .accordion-header::after {
     position: absolute;
