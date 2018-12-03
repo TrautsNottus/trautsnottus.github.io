@@ -1,7 +1,7 @@
 ---
 title: Result Type
 ---
-Specifies what type of assessment can be recorded.
+The type of result.
 
 There are five Result Types:
 

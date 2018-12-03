@@ -4,7 +4,7 @@ title: Home
 
 # Getting started
 
-Welcome to SIMS We're glad you're here. Let's get started!
+Welcome to SIMS. Let's get started!
 {:.lead}
 
 ## Intro to SIMS

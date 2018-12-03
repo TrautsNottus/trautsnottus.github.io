@@ -4,7 +4,7 @@ title: Result Types
 
 # Result types
 
-Specifies what type of assessment can be recorded.
+Specifies what type of assessment that can be recorded.
 {:.lead}
 
 There are five types of results:
