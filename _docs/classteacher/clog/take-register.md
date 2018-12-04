@@ -48,7 +48,7 @@ We've made it easy to enter Present, Absent or Late marks. But if you need to re
 You can enter the same mark for multiple pupils.
 
 1. Select the pupils by clicking the pupil's image
-2. Click  **Flood Fill Marks** {% include icon.html url="list-select" title="Flood fill" %} on the toolbar.
+1. Click  **Flood Fill Marks** {% include icon.html url="list-select" title="Flood fill" %} on the toolbar.
 
 {% include faq-end.html  %}
 

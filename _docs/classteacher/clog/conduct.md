@@ -1,27 +1,26 @@
 ---
-title: Record conduct
+title: My Conduct
 ---
 
-> Use the...
+Recording Conduct (from class log)
+{:.lead}
 
-## Accessing 
+## Quickly award positive and negative conduct points or record conduct events
 
-You can open the...
+1. Selecting the student(s)
+1. Select ‘Record Achievement or Behaviour’
+1. Selecting the Type – this will determine the information you need to record.
+1. Use the slider to award the number of points and add comments
 
-## Awarding good behaviour
+OR
 
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. 
-
-Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs.
-
-> Note: Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick 
-{:.note}
-
-## Recording behaviour incidents
-
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. 
-
-Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs.
-
-> Note: Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick 
-{:.note}
+1. Complete the form.
+1. Save.
+ 
+You can review the conduct events you’ve created by:
+Menu
+Conduct – Achievement or Behaviour Events
+You can review the conduct for a Student by:
+Menu
+Conduct Summary
+Select Student.
