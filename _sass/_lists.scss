@@ -11,7 +11,49 @@ ol {
   }
 }
 
-li + li
-{
+li + li {
   margin-top: 0.3rem;
+}
+
+.steps {
+  list-style-type: none;
+  padding-left: 0px;
+  li {
+    counter-increment: list;
+    position: relative;
+    margin-left: 2rem;
+  }
+  li + li {
+    margin-top: 1rem;
+  }
+
+  li:before {
+    content: counter(list);
+    background-color: $purple;
+    width: 1.6rem;
+    line-height: 1.6rem;
+    border-radius: 4px;
+    background-clip: padding-box;
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    left: -2rem;
+  }
+
+  &[start="2"] {
+    counter-reset: list 1;
+  }
+
+  &[start="3"] {
+    counter-reset: list 2;
+  }
+
+  &[start="4"] {
+    counter-reset: list 3;
+  }
+
+  &[start="5"] {
+    counter-reset: list 5;
+  }
 }

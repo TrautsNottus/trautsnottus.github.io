@@ -10,6 +10,7 @@ Update pupil progress towards Attainment Targets.
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Programme of Study Tracking Marksheets**.
 1. Choose your {% include glossarytooltip.html explain="Scheme" %}.
+{:.steps}
 
 > We default to the DfE National Curriculum Scheme. Your Assessment Coordinator can customise the Scheme to the school's needs.
 
@@ -18,6 +19,7 @@ Update pupil progress towards Attainment Targets.
 1. Choose your **Class**
 1. Choose the **Subject** and **Strand**.
 1. Choose the {% include glossarytooltip.html explain="Assessment Period" %}.
+{:.steps}
 
 > The pupils listed are those in the group on the supplied date. You can change the **Effective Date** if needed.
 

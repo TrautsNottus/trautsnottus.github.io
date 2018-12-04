@@ -2,18 +2,24 @@
 title: Edit Marks
 ---
 
-Use Edit Marks to:
-
-* Add missing marks
-* Change incorrect marks.
-* Bulk enter marks.
-* Enter marks for future dates, e.g. date of a hospital appointment.
+Manage your attendance data
+{:.lead}
 
 ## Opening Edit Marks
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Edit Marks**.
 1. Choose the date and group
+{:.steps}
+
+## Uses for Edit Marks
+
+Use Edit Marks to manage pupil's attendance marks. E.g.:
+
+* Add missing marks
+* Change incorrect marks.
+* Bulk enter marks.
+* Enter marks for future dates, e.g. date of a hospital appointment.
 
 {% include faq.html explain="See more pupil information" %}
 
