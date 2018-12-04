@@ -2,13 +2,11 @@
 title: Your Home Page
 ---
 
-# Your Home Page
-
 > A fresher homepage with real time widgets, providing a collated summary of top level information about your school or academy.
 
 [![Class Log](https://img.youtube.com/vi/bxI1ricmZV0/0.jpg)](https://www.youtube.com/watch?v=bxI1ricmZV0)
 
-# Notices and Schedules
+## Notices and Schedules
 
 Shows you what's going on around the school. See your day at a glance: lessons, appointments, etc.
 

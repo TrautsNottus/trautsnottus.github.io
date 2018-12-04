@@ -1,8 +1,6 @@
 ---
-title: Your SIMS Account
+title: Your SIMS account
 ---
-
-# Your SIMS Account
 
 Learn more about managing your account, safeguarding your data, and protecting your privacy.
 {:.lead}

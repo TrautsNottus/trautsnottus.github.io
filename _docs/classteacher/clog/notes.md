@@ -2,8 +2,6 @@
 title: Notes
 ---
 
-# Recording Notes
-
 > Use the...
 
 ## Accessing 

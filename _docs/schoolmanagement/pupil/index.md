@@ -1,8 +1,6 @@
 ---
-title: Managing Pupils
+title: Managing pupils
 ---
-
-# Managing pupils
 
 * [Finding pupils](finding-pupils)
 * [Add a new pupil](adding-a-new-pupil)

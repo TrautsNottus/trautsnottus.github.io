@@ -2,8 +2,6 @@
 title: MARKSTOGRADE
 ---
 
-# MARKSTOGRADE
-
 ~~~ sql
 MARKSTOGRADE(column, grade result type)
 ~~~

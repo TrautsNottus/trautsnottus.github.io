@@ -1,8 +1,6 @@
 ---
-title: Sorting Marksheets
+title: Sorting marksheets
 ---
-
-# Sorting marksheets
 
 You can sort any column on the marksheet, e.g., you can sort on the pupils by their results.
 

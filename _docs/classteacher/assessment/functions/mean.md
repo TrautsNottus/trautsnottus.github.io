@@ -1,8 +1,6 @@
 ---
 title: MEAN
 ---
-# MEAN
-
 ~~~ sql
 MEAN(condition 1, [condition 2])
 ~~~

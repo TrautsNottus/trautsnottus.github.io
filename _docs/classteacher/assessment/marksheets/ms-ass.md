@@ -2,16 +2,14 @@
 title: General Marksheets
 ---
 
-# General Marksheets
-
 Assess against any assessment the school chooses to follow.
 {:.lead}
 
 ## Opening Marksheets
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
-1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **General Marksheets**.
-1. Use the **Search** panel to find the your marksheet
+2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **General Marksheets**.
+3. Use the **Search** panel to find the your marksheet
 
 > We show  marksheet created for your classes.
 {:.note}

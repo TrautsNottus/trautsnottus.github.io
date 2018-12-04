@@ -1,8 +1,6 @@
 ---
-title: A Tour around SIMS
+title: A tour around SIMS
 ---
-
-# A tour around SIMS
 
 Finding screens and multitasking.
 {:.lead}

@@ -1,8 +1,6 @@
 ---
-title: Assessment
+title: Assessment with SIMS
 ---
-
-# Assessment with SIMS
 
 * [Working with Marksheets](working-with-marksheets)
 * [Creating Marksheets](creating-marksheets)

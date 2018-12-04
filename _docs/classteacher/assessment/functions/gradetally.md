@@ -1,7 +1,6 @@
 ---
-title: Grade Tally
+title: GRADETALLY
 ---
-# GRADETALLY
 
 ~~~ sql
 GRADETALLY(Array, Aspect X, [Aspect Y])
@@ -23,9 +22,9 @@ If you also want to count A+ and A-, you must include these in your list.
 
 E.g., GRADETALLY({'A', 'B', 'C'}, [ASPECT X], [ASPECT Y]) Grade Tally for Marks Aspects: You need to identify the window/range of marks in which you are interested.
 
-The window of marks needs to be specified in the array argument, separated by a semi-colon. 
+The window of marks needs to be specified in the array argument, separated by a semi-colon.
 
-E.g., {10:20}. If seven results are falling between 10 and 20, the outcome is 7. 
+E.g., {10:20}. If seven results are falling between 10 and 20, the outcome is 7.
 
 E.g., GRADETALLY({10:20}, [ASPECT X], [ASPECT Y])
 

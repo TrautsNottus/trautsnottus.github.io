@@ -2,8 +2,6 @@
 title: POSITION
 ---
 
-# POSITION
-
 ~~~ sql
 POSITION(column)
 ~~~

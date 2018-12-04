@@ -2,8 +2,6 @@
 title: Make pupils leavers
 ---
 
-# Making pupils leavers
-
 To make pupils leavers:
 
 1. Open the {% include glossarytooltip.html explain="Menu"%}.

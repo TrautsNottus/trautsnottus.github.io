@@ -2,8 +2,6 @@
 title: LARGE
 ---
 
-# LARGE
-
 ~~~ sql
 LARGE(number, condition 1, [condition 2])
 ~~~

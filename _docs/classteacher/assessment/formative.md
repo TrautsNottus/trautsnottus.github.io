@@ -1,8 +1,6 @@
 ---
-title: Formative Assessement
+title: Formative assessement
 ---
-
-# Formative assessment
 
 Formative assessment focuses on improving learning. 
 

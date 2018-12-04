@@ -1,7 +1,6 @@
 ---
-title: Recording Lunches
+title: Recording lunches
 ---
-# Recording lunches
 
 Recording pupils lunch-time preferences
 {:.lead}

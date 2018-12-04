@@ -1,8 +1,6 @@
 ---
-title: What is SIMS
+title: Say hello to the next generation of SIMS
 ---
-
-# Say hello to the next generation of SIMS
 
 Easier and smarter, its evolution of our market-leading MIS.
 {:.lead}

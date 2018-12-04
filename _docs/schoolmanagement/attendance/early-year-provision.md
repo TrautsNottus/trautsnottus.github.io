@@ -1,8 +1,6 @@
 ---
-title: Early Year Provision
+title: Early year provision
 ---
-
-# Early year provision
 
 > Schools with a dedicated nursery unit, that offer early years care, must
 present parents of three to four year olds with the choice of varying nursery

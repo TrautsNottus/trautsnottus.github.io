@@ -1,8 +1,6 @@
 ---
 title: MAX
 ---
-# MAX
-
 ~~~ sql
 MAX(condition 1, [condition 2])
 ~~~

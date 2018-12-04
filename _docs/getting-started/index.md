@@ -1,8 +1,6 @@
 ---
-title: Getting started with SIMS
+title: Getting started
 ---
-
-# Getting started
 
 > SIMS is super-duper
 

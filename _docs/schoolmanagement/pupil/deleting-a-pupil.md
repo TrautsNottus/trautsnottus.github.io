@@ -1,8 +1,6 @@
 ---
-title: Deleting a Pupil
+title: Deleting a pupil
 ---
-
-# Deleting a pupil
 
 > Deleting a pupil is usually required if a pupil has been added by mistake.
 {:.warning}

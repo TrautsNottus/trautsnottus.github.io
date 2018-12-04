@@ -1,7 +1,6 @@
 ---
 title: Formulas
 ---
-# Formulas
 
 A formula performs calculations or other actions on the data in your Marksheet.
 

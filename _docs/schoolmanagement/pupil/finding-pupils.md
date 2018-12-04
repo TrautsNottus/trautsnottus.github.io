@@ -1,8 +1,6 @@
 ---
-title: Finding Pupils
+title: Finding pupils
 ---
-
-# Finding pupils
 
 ## Finding current pupils
 

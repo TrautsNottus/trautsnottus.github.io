@@ -1,8 +1,6 @@
 ---
-title: Historical Marksheets
+title: Historical marksheets
 ---
-
-# Historical marksheets
 
 Changing Existing Results in Marksheets 
 {:.lead}

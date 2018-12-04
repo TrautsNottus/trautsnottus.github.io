@@ -2,8 +2,6 @@
 title: PERCENT
 ---
 
-# PERCENT
-
 ~~~ sql
 PERCENT(column)
 ~~~

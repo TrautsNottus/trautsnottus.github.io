@@ -2,8 +2,6 @@
 title: Result Picker
 ---
 
-# Result Picker
-
 Quickly enter assessents using the mouse or touchscreen.
 {:lead}
 

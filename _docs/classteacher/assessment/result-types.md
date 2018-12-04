@@ -2,8 +2,6 @@
 title: Result Types
 ---
 
-# Result types
-
 Specifies what type of assessment that can be recorded.
 {:.lead}
 

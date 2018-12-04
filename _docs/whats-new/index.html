@@ -12,9 +12,9 @@ title: What's New
 {%- assign selection = site.docs | where: 'whats-new', true | reverse -%}
 
 {%- for page in selection -%}
-  <article class="article-list">
-    {{ page.content | markdownify }}
-  </article>
+
+<a href="{{ page.url }}">{{ page.title }}</a>
+{{ page.excerpt }}
   <hr>
 {%- endfor -%}
 <section>

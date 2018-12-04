@@ -1,7 +1,6 @@
 ---
 title: The Class Log
 ---
-# The Class Log
 
 Manage your class from one place.
 {:.lead}

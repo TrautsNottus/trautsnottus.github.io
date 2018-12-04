@@ -1,8 +1,6 @@
 ---
-title: SIMS in the Classroom
+title: SIMS in the classroom
 ---
-
-# SIMS in the Classroom
 
 * [Class Log](clog/)
 * [Taking the register](clog/take-register)

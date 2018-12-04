@@ -2,8 +2,6 @@
 title: FAQs
 ---
 
-# FAQs
-
 {% include faq.html explain="How do I change the date to **UK format**" %}
 
 If the dates in SIMS are not displaying in the UK format, i.e. dd/MM/yyyy, then this means your browser or operating system's **Language and Region** settings are *probably* set to US English.
@@ -61,8 +59,8 @@ By subscribing to an internet calendar  (e.g. Outlook, Google Calendar), you can
 To add a Calendar:
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
-1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Manage School Calendars and Internet Calendar Subscriptions**.
-1. Click **Add Internet Calendar Subscription** on the toolbar.
+2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Manage School Calendars and Internet Calendar Subscriptions**.
+3. Click **Add Internet Calendar Subscription** on the toolbar.
 
 {% include faq-end.html  %}
 

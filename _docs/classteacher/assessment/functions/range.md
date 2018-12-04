@@ -2,8 +2,6 @@
 title: RANGE
 ---
 
-# RANGE
-
 ~~~ sql
 RANGE(condition 1, [condition 2])
 ~~~

@@ -1,8 +1,6 @@
 ---
-title: Change or Reset your Password
+title: Change or reset your password
 ---
-
-# Change or reset your password
 
 You can change your password for security reasons. Or reset it if you forget it.
 {:.lead}

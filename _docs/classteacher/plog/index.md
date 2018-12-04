@@ -1,7 +1,6 @@
 ---
 title: Pupil Log
 ---
-# Pupil Log
 
 > The Pupil Log provides access to all the information you need to understand your pupils as individuals.
 

@@ -2,8 +2,6 @@
 title: Definitions
 ---
 
-# Definitions
-
 Add
 : Put in or include an additional item, ingredient.
 Change

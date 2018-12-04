@@ -2,8 +2,6 @@
 title: Programme of Study Tracking Sheet
 ---
 
-# Programme of Study Tracking Sheet
-
 Update pupil progress towards Attainment Targets.
 {:.lead}
 

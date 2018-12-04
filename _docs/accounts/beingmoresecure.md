@@ -1,7 +1,6 @@
 ---
-title: Help us Protect Your Account
+title: Help us protect your account
 ---
-# Help us protect your account
 
 Your SIMS Account gives you access to SIMS. The data stored in SIMS is confidential and keeping it secure your responsibility.
 {:.lead}

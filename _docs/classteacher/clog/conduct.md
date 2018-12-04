@@ -1,8 +1,6 @@
 ---
-title: Conduct
+title: Record conduct
 ---
-
-# Recording Conduct
 
 > Use the...
 

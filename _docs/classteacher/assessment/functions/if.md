@@ -2,8 +2,6 @@
 title: IF
 ---
 
-# IF
-
 ~~~ sql
 IF(something_is_true, then do_this, otherwise_do_this)
 ~~~

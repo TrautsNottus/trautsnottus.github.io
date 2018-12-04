@@ -1,8 +1,6 @@
 ---
-title: Your Privacy
+title: Your privacy
 ---
-
-# Your privacy
 
 Your privacy and the protection of your personal data are extremely important to us.
 {:.lead}

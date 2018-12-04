@@ -1,8 +1,6 @@
 ---
-title: Result History
+title: Result history
 ---
-
-# Result history
 
 View, add, amend or delete a result's history.
 {:.lead}

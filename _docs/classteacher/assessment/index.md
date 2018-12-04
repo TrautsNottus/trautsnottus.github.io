@@ -1,8 +1,6 @@
 ---
-title: Intro to SIMS Assessment
+title: Intro to SIMS assessment
 ---
-
-# Intro to SIMS Assessment
 
 Assessment simplified.
 {:.lead}

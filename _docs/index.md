@@ -1,8 +1,6 @@
 ---
-title: Home
+title: Getting started
 ---
-
-# Getting started
 
 Welcome to SIMS. Let's get started!
 {:.lead}

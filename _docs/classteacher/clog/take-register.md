@@ -1,8 +1,6 @@
 ---
-title: Take Register
+title: Taking the register
 ---
-
-# Taking the register
 
 Mark pupils as present, absent or late.
 {:.lead}

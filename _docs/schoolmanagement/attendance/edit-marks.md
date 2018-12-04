@@ -1,7 +1,6 @@
 ---
 title: Edit Marks
 ---
-# Edit Marks
 
 Use Edit Marks to:
 

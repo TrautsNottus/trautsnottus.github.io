@@ -1,8 +1,6 @@
 ---
 title: MEDIAN
 ---
-# MEAN
-
 ~~~ sql
 MEDIAN(condition 1, [condition 2])
 ~~~

@@ -1,8 +1,6 @@
 ---
-title: School Management
+title: Set up and running your school
 ---
-
-# Set up and running your school
 
 * [Admissions](pupil)
 * [Assessment](../assessment/)

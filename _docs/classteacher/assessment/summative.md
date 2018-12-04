@@ -1,8 +1,6 @@
 ---
-title: Summative Assessemnt
+title: Summative assessemnt
 ---
-
-# Summative assessment
 
 Summative assessment occurs at different intervals such as weekly, on completion of a topic of work, at the end of each term, or the end of the year.
 
