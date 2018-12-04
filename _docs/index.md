@@ -2,10 +2,8 @@
 title: Getting started
 ---
 
-Welcome to SIMS. Let's get started!
+Welcome to SIMS.
 {:.lead}
-
-## Intro to SIMS
 
 If you are just getting started, these guides help you get to know SIMS.
 

@@ -3,8 +3,10 @@
   width: 100%;
   top: 0;
   z-index: 1070;
-  background: $gray-100;
-  border-bottom: 1px solid $gray-200;
+  background: $gray-800;
+
+  border-bottom: 1px solid $gray-900;
+  color: #fff;
 }
 
 .nav-bar {
@@ -27,13 +29,12 @@
     color: inherit;
     text-decoration: none;
   }
- &  +  & + & .tile {
+  & + & + & .tile {
     background: $green;
   }
   & + & .tile {
     background: $cyan;
   }
-  
 }
 
 .tile-size {
