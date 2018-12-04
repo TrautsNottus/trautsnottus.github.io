@@ -1,12 +1,4 @@
 ---
 title: Result Type
 ---
-The type of result.
-
-There are five Result Types:
-
-* Grade
-* Mark (Integer)
-* Mark (Decimal)
-* Age
-* Comment
+There are five Result Types:<ol><li>Grade<li>Mark (Integer)<li>Mark (Decimal)<li>Age<li>Comment</ol>
