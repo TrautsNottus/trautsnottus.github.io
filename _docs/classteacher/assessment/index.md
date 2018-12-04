@@ -12,6 +12,7 @@ In SIMS are three types of marksheet:
 1. [General Marksheets](marksheets/ms-ass), used for {% include glossarytooltip.html explain="Summative" %} assessments, e.g., the end of Key Stage
 1. [Programme of Study Tracking Sheets](marksheets/ms-pos), used for ongoing {% include glossarytooltip.html explain="Formative" %} evaluation; where you can assess against the curriculum learning objectives.
 1. [Historical Marksheets](marksheets/ms-historical), used for changing results in the past.
+{:.list}
 
 > As a teacher, you have access to marksheets from the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
@@ -68,6 +69,7 @@ There are five Result Types:
 3. Mark (Decimal)
 4. Age
 5. Comment
+{:.list}
 
 [Learn more about Result Types](result-types)
 

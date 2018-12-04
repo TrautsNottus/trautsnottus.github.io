@@ -10,7 +10,6 @@ Manage your attendance data
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Edit Marks**.
 1. Choose the date and group
-{:.steps}
 
 ## Uses for Edit Marks
 

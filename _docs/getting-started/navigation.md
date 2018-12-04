@@ -11,10 +11,10 @@ To find screens in SIMS:
 
 1. Open the **Menu**.
 
- {% include image.html url="shots/menu.png" title="The **Main Menu**" %}
+{% include image.html url="shots/menu.png" title="The **Main Menu**" %}
 
 {:start="2"}
-2. Type the name of the screen into the **Menu Search** {% include icon.html url="search" title="Search" %}.
+1. Type the name of the screen into the **Menu Search** {% include icon.html url="search" title="Search" %}.
 
 {% include image.html url="shots/menusearch.png" title="The **Menu Search**" %}
 

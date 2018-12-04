@@ -10,7 +10,6 @@ Assess against any assessment the school chooses to follow.
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **General Marksheets**.
 3. Use the **Search** panel to find the your marksheet
-{:.steps}
 
 > We show  marksheet created for your classes.
 {:.note}
@@ -82,7 +81,6 @@ To add a column:
 1. Click **Add My Column** on the toolbar.
 2. Give the column a name.
 3. Set the column type, either text or number.
-{:.steps}
 
 > The additional column only affects *your* marksheet. If you need a column adding to every marksheet, you need to change the marksheet's template. You'll need to ask your to Assessment Coordinator to change a marksheet's template.
 {:.note}
