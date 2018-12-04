@@ -11,13 +11,10 @@ A great new way for teachers to interact with key data on their class.
 1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Class Log**.
 1. Choose your class
 
-> If you are signed into SIMS as a class teacher, there is a shortcut to **Class Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
+> If you sign into SIMS as a class teacher, there's a shortcut to **Class Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
-> The Class Log knows that you're the class teacher, so takes you straight through to your class.
-{:.note}
-
-The Class Log lets you do class-based activities, like:
+The Class Log lets you do class-based activities, e.g.:
 
 * [Taking the register](take-register)
 * [Recording lunches](dinner-register)
@@ -69,6 +66,6 @@ You can sort the pupils in your class by ascending or descending order on their:
 * Age
 * Good or bad behaviour
 
-To apply sorting to a column, open the **Sort By** panel and choose how you'd like to sort your class.
+To apply sorting to you class, open the **Sort By** panel and choose from the sorting options.
 
 {% include faq-end.html  %}

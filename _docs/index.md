@@ -5,7 +5,7 @@ title: Getting started
 Welcome to SIMS.
 {:.lead}
 
-If you are just getting started, these guides help you get to know SIMS.
+If you're just getting started, these guides help you get to know SIMS.
 
 * [**What is** SIMS?](getting-started/welcome-to-sims)
 * [A **tour** around SIMS](getting-started/navigation)

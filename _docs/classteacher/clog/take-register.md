@@ -12,7 +12,7 @@ Mark pupils as present, absent or late.
 1. Choose your class.
 1. Click **Take Register** {% include icon.html url="check-square-o" title="Take Register" %} on the toolbar.
 
-> If you are signed into SIMS as a class teacher, there is a shortcut to **Take Register** in the {% include glossarytooltip.html explain="Quick Links" %}.
+> If you signed into SIMS as a class teacher, there's a shortcut to **Take Register** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
 > **Take Register** only allows you to record registration for the current day. Use [Edit Marks](../../schoolmanagement/attendance/edit-marks) to change marks in the past or the future.
@@ -22,15 +22,15 @@ Mark pupils as present, absent or late.
 
 If a pupil arrives late for registration, you can change the Absent mark to Late  by clicking the **L** button on the pupil and record the number of minutes Late.
 
-We calculate how late the pupil is for you.  But you can click the **Minutes Late** button to change the time.
+We calculate the pupil's lateness, but you can click the **Minutes Late** button to change the time.
 
 {% include faq-end.html  %}
 
 {% include faq.html explain="Viewing and adding **notes**" %}
 
-You can add, amend or delete comments on a pupil's attendance by clicking the **Add Note** {% include icon.html url="add-note" title="Add Note" %} button.
+You can add, update or delete comments on a pupil's attendance by clicking the **Add Note** {% include icon.html url="add-note" title="Add Note" %} button.
 
-The **Add Note** button highlights if a comment has been recorded for a pupil {% include icon.html url="has-note" title="Has Note" %}.
+The **Add Note** button highlights if there's a comment recorded for a pupil {% include icon.html url="has-note" title="Has Note" %}.
 
 > The note should relate to the pupil's attendance or absence for that registration. Use Pupil Log Notes to record notes.
 {:.warning}
@@ -48,7 +48,7 @@ We've made it easy to enter Present, Absent or Late marks. But if you need to re
 You can enter the same mark for multiple pupils.
 
 1. Select the pupils by clicking the pupil's image
-1. Click  **Flood Fill Marks** {% include icon.html url="list-select" title="Flood fill" %} on the toolbar.
+2. Click  **Flood Fill Marks** {% include icon.html url="list-select" title="Flood fill" %} on the toolbar.
 
 {% include faq-end.html  %}
 

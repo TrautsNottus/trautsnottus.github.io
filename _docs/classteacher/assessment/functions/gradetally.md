@@ -10,7 +10,7 @@ GRADETALLY(Array, Aspect X, [Aspect Y])
 
 This formula searches across the given set of columns and return the number of results, matching the given criteria.
 
-Grade Tally for Grade Aspects: You need to identify the grade(s) in which you are interested. 
+Grade Tally for Grade Aspects: You need to identify the grade(s) in which you're interested. 
 
 These grades must be specified in the array argument like {'A','B','C'}.
 
@@ -20,7 +20,7 @@ Entering 'A' only counts the number of 'A's.
 
 If you also want to count A+ and A-, you must include these in your list. 
 
-E.g., GRADETALLY({'A', 'B', 'C'}, [ASPECT X], [ASPECT Y]) Grade Tally for Marks Aspects: You need to identify the window/range of marks in which you are interested.
+E.g., GRADETALLY({'A', 'B', 'C'}, [ASPECT X], [ASPECT Y]) Grade Tally for Marks Aspects: You need to identify the window/range of marks in which you're interested.
 
 The window of marks needs to be specified in the array argument, separated by a semi-colon.
 

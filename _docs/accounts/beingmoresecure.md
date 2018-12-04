@@ -2,7 +2,7 @@
 title: Help us protect your account
 ---
 
-Your SIMS Account gives you access to SIMS. The data stored in SIMS is confidential and keeping it secure your responsibility.
+Your SIMS Account gives you access to SIMS. The data stored in SIMS is confidential.
 {:.lead}
 
 Here are some of the best practices to follow to maximise the security of your account.

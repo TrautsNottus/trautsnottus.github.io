@@ -1,4 +1,4 @@
 ---
-title: Quick Links
+title: Quick links
 ---
-Quick links are short cuts to regualy used screens. And are found in the header.
+Quick links are short cuts to commonly used screens. And are found in the top of the screen.

@@ -6,4 +6,4 @@ You can add, amend or delete notes on a pupil's results by choosing the cell and
 
 E.g., you can record why a result was changed or why their performance was not as expected (poor health, bereavement)
 
-The indicator in the top right of a cell highlights if a note has been recorded for a pupil.
+The indicator in the top right of a cell highlights if there's a note recorded for a pupil.
