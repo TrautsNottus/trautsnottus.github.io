@@ -23,7 +23,7 @@ Marksheets are created by your Assessment Coordinator.
 
 An Assessment Coordinator creates a template for a marksheet. A template defines the columns that appear in the marksheet.
 
-By associating the template with one or more pupil groups, Marksheets can be created for each supervisor of each group.
+By associating the template with one or more pupil groups, marksheets can be created for each supervisor of each group.
 
 As a class teacher, you'll see only those marksheets relevant to you.
 
@@ -65,8 +65,8 @@ You can add additional pupil information to ta marksheet for more context, e.g. 
 There are five Result Types:
 
 1. Grade
-2. Mark (Integer)
-3. Mark (Decimal)
+2. Mark (integer)
+3. Mark (decimal)
 4. Age
 5. Comment
 {:.list}

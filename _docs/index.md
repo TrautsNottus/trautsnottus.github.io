@@ -13,10 +13,11 @@ If you are just getting started, these guides help you get to know SIMS.
 
 ## Class Teacher
 
-* [Class Log](classteacher/clog/)
 * [Taking the register](classteacher/clog/take-register)
 * [Recording lunches](classteacher/clog/dinner-register)
 * [Conduct](classteacher/clog/conduct)
+* [Class Log](classteacher/clog/)
+* [Pupil Log](classteacher/plog/)
 * [Assessment](classteacher/assessment/)
 
 ## School management
