@@ -19,7 +19,7 @@ If you're just getting started, these guides help you get to know SIMS.
 * [Class Log](classteacher/clog/)
 * [Pupil Log](classteacher/plog/)
 * [Assessment](classteacher/assessment/)
-* [Create a pupil list](classteacher/other/pupil-list-builder)
+* [Create a pupil list](schoolmanagement/pupil/pupil-list-builder)
 
 ## School management
 
