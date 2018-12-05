@@ -18,6 +18,7 @@ Update pupil progress towards Attainment Targets.
 1. Choose your **Class**
 2. Choose the **Subject** and **Strand**.
 3. Choose the {% include glossarytooltip.html explain="Assessment Period" %}.
+4. next point
 
 > The pupils listed are those in the group on the supplied date. You can change the **Effective Date** if needed.
 
