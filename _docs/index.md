@@ -15,9 +15,11 @@ If you're just getting started, these guides help you get to know SIMS.
 
 * [Taking the register](classteacher/clog/take-register)
 * [Recording lunches](classteacher/clog/dinner-register)
+* [Awarding Points](classteacher/clog/conduct)
 * [Class Log](classteacher/clog/)
 * [Pupil Log](classteacher/plog/)
 * [Assessment](classteacher/assessment/)
+* [Create a pupil list](classteacher/other/pupil-list-builder)
 
 ## School management
 
