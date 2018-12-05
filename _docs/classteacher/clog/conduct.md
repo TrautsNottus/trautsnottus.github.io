@@ -4,7 +4,7 @@ title: Awarding Points
 Simple awarding of points to pupils.
 {:.lead}
 
-> On the **Conduct Configuration** screen, your school administrator can change the labels for 'Achievement' or 'Behaviour' to something right for your school. E.g., Blah, blah.
+> On the **Conduct Configuration** screen, your school administrator can change the labels for 'Achievement' or 'Behaviour' to something right for your school. E.g., Merits, Demerits.
 {: .note}
 
 ## Awarding achievement points
@@ -16,6 +16,7 @@ One of the nice ways of interacting with the Class Log is by selecting pupils yo
 3. Choose your class.
 4. Select one or more pupils
 5. Click **Record Achievement** {% include icon.html url="face-happy" title="Achievements" %} on the toolbar.
+6. step 6
 
 > On the **Conduct Configuration** screen, your school administrator can edit or change what to record for each achievement option.
 {:.note}
