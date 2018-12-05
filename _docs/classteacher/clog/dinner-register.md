@@ -5,15 +5,15 @@ title: Recording lunches
 Recording pupils lunch-time preferences
 {:.lead}
 
-> Note: Recording lunches requires a Dinner Money licence. [Please visit here to learn more.](https://www.capita-sims.co.uk/products-and-services/sims-dinner-money){:target="_blank"}
+> Note: Recording lunches requires a Dinner Money licence. [Click here to learn more.](https://www.capita-sims.co.uk/products-and-services/sims-dinner-money){:target="_blank"}
 {:.note}
 
 ## Opening Record Lunches
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
-1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find the {% include glossarytooltip.html explain="Class Log" %}.
-1. Choose your class
-1. Click **Record Lunches** {% include icon.html url="cutlery" title="Flood fill" %} on the toolbar.
+2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find the {% include glossarytooltip.html explain="Class Log" %}.
+3. Choose your class
+4. Click **Record Lunches** {% include icon.html url="cutlery" title="Flood fill" %} on the toolbar.
 
 ## Flood filling lunch options
 

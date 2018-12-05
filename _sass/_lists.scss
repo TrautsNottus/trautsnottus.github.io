@@ -17,7 +17,8 @@ li + li {
 
 ol:not(.list) {
   list-style-type: none;
-  padding-left: 0px;
+  padding-left: 0;
+  counter-reset: list;
   li {
     counter-increment: list;
     position: relative;
@@ -56,9 +57,4 @@ ol:not(.list) {
   &[start="5"] {
     counter-reset: list 5;
   }
-}
-
-.list
-{
-
 }
