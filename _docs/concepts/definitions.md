@@ -17,7 +17,7 @@ Find
 Remove
 : Detach, disconnect something
 Search
-: Focuses on the activity or action of looking or trying to find (Use when defining the action of search, e.g. on buttons. Use when the type of result is not exactly known, e.g. Global Search, Search Engine)
+: Focuses on the activity or action of looking or trying to find (Use when defining the action of search, e.g. on buttons. Use when the type of result isn't exactly known, e.g. Global Search, Search Engine)
 Update
 : Bring information up to date (e.g. from a data collection sheet)
 

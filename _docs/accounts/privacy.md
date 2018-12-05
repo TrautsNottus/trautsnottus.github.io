@@ -11,7 +11,7 @@ SIMS uses secure cookies to maintain limited information.
 
 The information relates to session identification and authentication data. And are used to verify access requests to SIMS Services.
 
-The cookies do not hold personally identifiable data and are not copied to local machines or devices.
+The cookies don't hold personally identifiable data and are not copied to local machines or devices.
 
 ## Analytics
 

@@ -14,7 +14,7 @@ In SIMS are three types of marksheet:
 1. [Historical Marksheets](marksheets/ms-historical), used for changing results in the past.
 {:.list}
 
-> As a teacher, you have access to marksheets from the {% include glossarytooltip.html explain="Quick Links" %}.
+> As a teacher, you've access to marksheets from the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
 {% include faq.html explain="Marksheet creation" %}

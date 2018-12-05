@@ -48,6 +48,6 @@ To pin a note, click the **Pin this note** on the note's detail.
 
 {% include faq.html explain="Pupil summary" %}
 
-The Pupil Log screen contains high-level summary information on attendance, assessment and behaviour.
+The Pupil Log screen shows high-level summary information on attendance, assessment and behaviour.
 
 {% include faq-end.html  %}

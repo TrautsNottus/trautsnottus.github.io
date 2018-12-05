@@ -22,7 +22,7 @@ One of the nice ways of interacting with the Class Log is by selecting pupils yo
 
 ## Recording behaviour incidents
 
-If there are children who you're less pleased with, you can quickly record a behaviour incident.
+If there're children who you're less pleased with, you can quickly record a behaviour incident.
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find the {% include glossarytooltip.html explain="Class Log" page=page %}.
