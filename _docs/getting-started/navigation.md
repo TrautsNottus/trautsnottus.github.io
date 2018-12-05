@@ -7,16 +7,18 @@ Finding stuff and multitasking.
 
 ## The main menu
 
-To find screens in SIMS:
+It's hard to miss SIMS's main menu.  But in case you did, it's the bright pink button, top left of the app.
+
+{% include image.html url="shots/menu.png" title="The main menu" %}
+
+Using the menu's search, it's easy to find the screen you need.
+
+{% include image.html url="shots/menusearch.png" title="Use the menu's search to find screens, fast" %}
+
+To find screens:
 
 1. Open the **Menu**.
-
-{% include image.html url="shots/menu.png" title="Menu**" %}
-
-{:start="2"}
-1. Type the name of the screen into the **Menu Search** {% include icon.html url="search" title="Search" %}.
-
-{% include image.html url="shots/menusearch.png" title="The **Menu search**" %}
+2. Type the name of the screen into the **Menu Search**.
 
 ## Frequently used
 

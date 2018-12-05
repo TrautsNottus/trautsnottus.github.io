@@ -17,7 +17,7 @@ You can add or remove the pupil information columns by switching the on or off i
 
 You can sort any column on the screen sheet, e.g., you can sort on the pupils by their gender, class, disability.
 
-> You may want to sort by more than one column to help group your data. For example, you might want to group your pupils in class, then by gender.
+> You may want to sort by more than one column to help group your data. E.g., you might want to group your pupils in class, then by gender.
 {:.tip}
 
 To apply sorting, click the Sort into Groups {% include icon.html url="sort-alpha-asc" title="Ascending" %} on the toolbar.

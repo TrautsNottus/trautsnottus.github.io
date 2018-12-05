@@ -10,7 +10,7 @@ Changing the **Language and Region** settings depend upon your browser and opera
 
 Please try googling to find how to change your settings.
 
-For example, try:
+Try:
 
 * [Windows 10 edge change date to UK format](http://www.google.co.uk/search?q=Windows+10+edge+change+date+to+UK+format){:target="_blank"}
 * [Window 7 chrome change date to UK format](http://www.google.co.uk/search?q=Window+7+chrome+change+date+to+UK+format){:target="_blank"}
@@ -21,7 +21,7 @@ For example, try:
 
 {% include faq.html explain="How do I find out **what’s new** in SIMS?" %}
 
-To learn about what new SIMS features and enhancements, see the [What's new](../whats-new/) article.
+To learn about new features and enhancements, see the [What's new](../whats-new/) article.
 
 {% include faq-end.html  %}
 
@@ -54,7 +54,7 @@ We'll be providing support for tablet devices (e.g. iPads) in the future.
 
 {% include faq.html explain="How can I synchronise SIMS calendar with my Outlook calendar?" %}
 
-By subscribing to an internet calendar  (e.g. Outlook, Google Calendar), you can see it alongside other calendars in SIMS's **Calendar** Screen.
+By subscribing to an internet calendar (e.g. Outlook, Google Calendar), you can see it alongside your other calendars in the **Calendar** screen.
 
 To add a Calendar:
 
