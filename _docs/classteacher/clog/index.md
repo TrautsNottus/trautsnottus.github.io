@@ -2,35 +2,35 @@
 title: The Class Log
 ---
 
-A great new way for teachers to interact with key data on their class.
+A great new way for teachers to interact with important information on their class.
 {:.lead}
 
-## Opening the Class Log
-
-1. Open the {% include glossarytooltip.html explain="Menu" %}.
-1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Class Log**.
-1. Choose your class
-
-> If you sign into SIMS as a class teacher, there's a shortcut to **Class Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
-{:.tip}
-
-The Class Log lets you do class-based activities, e.g.:
+Many of your daily tasks can be made easier with the Class Log:
 
 * [Taking the register](take-register)
 * [Recording lunches](dinner-register)
 * [Award conduct points](conduct)
-* [Record notes](notes)
+* [Recording notes](notes)
+
+## Opening the Class Log
+
+1. Open the {% include glossarytooltip.html explain="Menu" %}.
+2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Class Log**.
+3. Choose your class.
+
+> For class teachers, there's a shortcut to **Class Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
+{:.tip}
 
 {% include faq.html explain="Filter By panel" %}
 
 Use the **Filter By** panel to find and focus on specific pupils. E.g.:
 
 * Boys or girls
-* Who's a birthday this week
+* Who has a birthday this week
 * Who receives free school meals
 * Who receives Pupil Premium
 
-By default, we hide the **Filter By** panel. To open the **Filter By** pane, click the **Filter** {% include icon.html url="filter" title="Filter" %} button on the toolbar.
+By default, we hide the **Filter By** panel. To open the **Filter By** panel, click the **Filter** {% include icon.html url="filter" title="Filter" %} button on the toolbar.
 
 {% include faq-end.html  %}
 

@@ -27,5 +27,6 @@ To enter the same lunch options for multiple pupils.
 Related articles
 {:.related}
 
+* [The Class Log](index)
 * [Edit Marks](../../schoolmanagement/attendance/edit-marks)
 * [Take Register](take-register)

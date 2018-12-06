@@ -58,5 +58,6 @@ To enter the same mark for multiple pupils:
 Related articles
 {:.related}
 
+* [The Class Log](index)
 * [Edit Marks](../../schoolmanagement/attendance/edit-marks)
 * [Recording lunches](dinner-register)
