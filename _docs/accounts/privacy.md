@@ -9,7 +9,7 @@ Your privacy and the protection of your personal data are extremely important to
 
 SIMS uses secure cookies to maintain certain, limited information.
 
-The information relates to session identification and authentication: i.e., is used to verify that you can access SIMS.
+The information relates to session identification and authentication: i.e., is used to verify that you have access SIMS.
 
 Our cookies don’t hold personally identifiable data, and we don't copy them to local machines or devices.
 

@@ -37,7 +37,7 @@ The menu groups screens into 'functional' areas. These groupings help you when y
 > If the menu item has extra information, you can hover over the **Help Symbol** {% include icon.html url="question-circle" title="Search" %}.
 {:.tip}
 
-## Quick links
+## Quick Links
 
 **Quick Links** are shortcuts to regularly used screens.
 

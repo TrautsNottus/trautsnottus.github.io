@@ -1,4 +1,4 @@
 ---
-title: Quick links
+title: Quick Links
 ---
-Quick links are short cuts to commonly used screens. And are found in the top of the screen.
+**Quick Links** are shortcuts to regularly used screens. [Learn&nbsp;More]({{base.url}}/docs/getting-started/navigation#quick-links).
