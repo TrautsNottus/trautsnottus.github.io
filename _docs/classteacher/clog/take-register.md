@@ -59,3 +59,4 @@ Related articles
 {:.related}
 
 * [Edit Marks](../../schoolmanagement/attendance/edit-marks)
+* [Recording lunches](dinner-register)
