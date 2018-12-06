@@ -3,4 +3,8 @@
 grep -o -r -w  --include "*.md" -f words/banned.txt  /Users/stuartsutton/Documents/GitHub/trautsnottus.github.io/_docs/classteacher/clog
 grep -o -r -w  --include "*.md" -f words/filler.txt  /Users/stuartsutton/Documents/GitHub/trautsnottus.github.io/_docs/classteacher/clog
 grep -o -r -w  --include "*.md" -f words/contractions.txt  /Users/stuartsutton/Documents/GitHub/trautsnottus.github.io/_docs/classteacher/clog
+
+grep -oP "wwn=[^,]*" /Users/stuartsutton/Documents/GitHub/trautsnottus.github.io/_docs/classteacher/clog | sort | uniq -c
+
+
  
