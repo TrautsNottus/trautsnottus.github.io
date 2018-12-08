@@ -29,7 +29,7 @@ As a class teacher, you'll see only those marksheets relevant to you.
 
 {% include faq-end.html  %}
 
-{% include faq.html explain="Types of columns" %}
+{% include faq.html explain="Column types" %}
 
 There are several types of columns that make up a marksheet:
 

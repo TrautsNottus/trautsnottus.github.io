@@ -1,4 +1,4 @@
-{%- capture id -%}{{ include.explain | replace: " " "_"}}{%- endcapture -%}
+{%- capture id -%}{{ include.explain | replace: " ", "-"| downcase }}{%- endcapture -%}
 {::nomarkdown}
 <div class="accordion">
 <input id="{{id}}" type="checkbox" {{include.checked}}/>

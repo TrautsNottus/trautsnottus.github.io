@@ -2,7 +2,7 @@
 title: Taking the register
 ---
 
-Mark pupils present, absent or late.
+A few clicks and you're done.
 {:.lead}
 
 ## Opening Take Register

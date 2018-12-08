@@ -2,17 +2,18 @@
 title: Managing pupils
 ---
 
+## Find, add or delete pupils.
+
 * [Finding pupils](finding-pupils)
 * [Add a new pupil](adding-a-new-pupil)
 * [Deleting a pupil](deleting-a-pupil)
-* [Bulk editing pupil information](/)
 
-{% include faq.html explain="Leavers" %}
+## Leavers
 
 * [Making a pupil a leavers](make-a-leaver)
 * [Making pupils leavers](bulk-leavers)
 
-{% include faq-end.html  %}
+{% comment %}
 
 {% include faq.html explain="Importing and exporting pupils" %}
 
@@ -33,3 +34,5 @@ Related articles
 
 * [Applicants](/)
 * [Next](/)
+
+{% endcomment %}

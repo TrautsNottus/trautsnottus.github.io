@@ -2,7 +2,7 @@
 title: The Class Log
 ---
 
-A great new way for teachers to interact with important information on their class.
+Designed for the classroom, the Class Log is a new way for you to interact with information on your class.
 {:.lead}
 
 Many of your daily tasks can be made easier with the Class Log:

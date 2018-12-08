@@ -2,25 +2,25 @@
 title: Pupil List Export and Print
 ---
 
-An easy way to build and export a custom list of pupils. E.g., a pupil list for a school trip with medical details and their emergency contact.
+Create pupil lists, e.g., for a school trip with medical details and emergency contact.
 {:.lead}
 
-## Opening Pupil List Export and Print
+## Opening the Pupil List Export and Print screen
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Pupil List Export and Print**.
-3. Use the **Search** panel to find the select your class or year group.
+3. Use the **Search** panel to select your class or year group.
 
-You can add or remove the pupil information columns by switching the on or off in the  **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} panel.
+Add or remove columns by turning them on or off in the  **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} panel.
 
 {% include faq.html explain="Sorting and grouping" %}
 
-You can sort any column on the screen sheet, e.g., you can sort on the pupils by their gender, class, disability.
+You can sort the pupils by any column on the screen, e.g., you can sort pupils by their gender, class, disability.
 
-> You may want to sort by more than one column to help group your data. E.g., you might want to group your pupils in class, then by gender.
+> You may want to sort by more than one column to group your pupils. E.g., you might want to order your pupils by class, then by gender.
 {:.tip}
 
-To apply sorting, click the Sort into Groups {% include icon.html url="sort-alpha-asc" title="Ascending" %} on the toolbar.
+To apply sorting, click the **Sort into Groups** {% include icon.html url="sort-alpha-asc" title="Ascending" %} on the toolbar.
 
 {% include faq-end.html %}
 
@@ -28,7 +28,7 @@ To apply sorting, click the Sort into Groups {% include icon.html url="sort-alph
 
 You can use any column on the screen as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
 
-> You can also filter by more than one column. By applying multiple filters, you can customise you list to show a particular group of pupils.
+> You can also filter by more than one column. By applying multiple filters, you can customise your list to show a specific set of pupils.
 {:.tip}
 
 To apply a filter, open the {% include glossarytooltip.html explain="Column Menu" %} and choose your filter options from the **Filter** panel.

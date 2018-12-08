@@ -1,5 +1,5 @@
 ---
-title: Your SIMS account
+title: Your account
 ---
 
 Learn more about managing your account, safeguarding your data, and protecting your privacy.

@@ -25,14 +25,13 @@ If you're just getting started, these guides will help you get to know SIMS.
 
 Get the most out of SIMS in your school with guides, tips, examples, and other resources.
 
-*Coming Soon*
+* [Managing pupils](schoolmanagement/pupil/)
+* *More coming soon*
 
-## Your SIMS Account
+## Your account
 
-* [Your SIMS Account](accounts/)
+* [Your account](accounts/)
 
-## Other
-
+## More
 
 * [What's new](whats-new/)
-
