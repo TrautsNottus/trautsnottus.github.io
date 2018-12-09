@@ -30,7 +30,7 @@ We show the applied filters in the toolbar.
 
 {% include faq.html explain="Data entry" %}
 
-You can enter values into the marksheet with your keyboard. Or, use the [Result Picker](result-picker).
+You can enter results into the marksheet with your keyboard. Or, use the [Result Picker](result-picker).
 
 {% include faq-end.html  %}
 
@@ -58,7 +58,7 @@ Add or remove the pupil information columns by clicking **Pupil Info Columns** {
 
 {% include faq.html explain="Sorting" %}
 
-You can sort any column on the marksheet. E.g., you can sort on the pupils by their results.
+You can sort by any column on the marksheet. E.g., you can sort on the pupils by their results.
 
 [Learn more about sorting marksheets](sorting)
 
@@ -80,7 +80,7 @@ To add a column:
 
 1. Click **Add My Column** on the toolbar.
 2. Give the column a name.
-3. Set the column type, either text or number.
+3. Set the column type to either **Text** or **Number**.
 
 > The additional column only affects *your* marksheet. If you need a column adding to every marksheet, you need to change the marksheet's template. You'll need to ask your Assessment Coordinator to do this for you.
 {:.note}
