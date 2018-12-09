@@ -51,7 +51,7 @@ You can enter values into the tracking sheet with your keyboard. Alternatively, 
 
 ## Analysis
 
-The tracking sheet has features to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
+The tracking sheet has tools to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
 
 {% include faq.html explain="Expectations achieved" %}
 

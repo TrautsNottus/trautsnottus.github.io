@@ -9,56 +9,56 @@ Assess against any assessment the school chooses to follow.
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **General Marksheets**.
-3. Use the **Search** panel to find the your marksheet
+3. Use the **Search** panel to find your marksheet.
 
-> We show  marksheet created for your classes.
+> For teachers, by default, we only show marksheet created for you. However, if you need to see other marksheets, simply remove the **My Marksheets** filter on the **Search** panel.
 {:.note}
 
 {% include faq.html explain="Hiding and showing columns" %}
 
-Marksheet can get large in some schools. We include column filtering to help you focus on the assessments relevant to what you want to see today. E.g., you can focus on the year to Autumn term. Or you can choose to filter the Marksheet to a specific subject.
+Marksheets can get large in some schools. Hiding columns can help you focus on the most relevant assessments, e.g., focus on the year to Autumn term, or a specific subject.
 
-To filter columns open the **Filter Columns By** options on the toolbar.
+To hide (or show) **Data Entry** columns, open the **Filter Columns By** panel on the toolbar.
 
 {% include image.html url="shots/ass-filter-columns.png" title="Column filtering" %}
 
-We show the applied filters in the toolbar.
+We show the applied filters in the toolbar. 
 
-{% include image.html url="shots/ass-filtered.png" title="Column filtering by the assessment period *Year 2 Annual* and the subject *English*" %}
+{% include image.html url="shots/ass-filtered.png" title=" Column filtering by the assessment period *Year 2 Annual* and the subject *English*" %}
 
 {% include faq-end.html %}
 
 {% include faq.html explain="Data entry" %}
 
-You can enter values into the marksheet with your keyboard. Alternatively, use the [Result Picker](result-picker).
+You can enter values into the marksheet with your keyboard. Or, use the [Result Picker](result-picker).
 
 {% include faq-end.html  %}
 
 ## Analysis
 
-The marksheet has features to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
+The marksheet has tools to help you see if pupils are excelling, or falling behind. You can use this information to focus your support.
 
 {% include faq.html explain="Summary Panel" %}
 
-At the bottom of the marksheet is the summary panel.
+At the bottom of the marksheet is the **Summary** panel.
 
-From the summary panel, you get an overview of the grades entered and the mean and median grades.
+From the **Summary** panel, you get an overview of the grades entered, and the mean and median grades.
 
-By default, we hide the summary panel. To see the summary panel click the **Summary** button at the bottom of the marksheet.
+By default, we hide the **Summary** panel. To see the summary, click the **Summary** button at the bottom of the marksheet.
 
 {% include faq-end.html  %}
 
 {% include faq.html explain="Additional pupil information" %}
 
-You can add additional pupil information to the marksheet for more context, e.g. if you wanted to see how your pupil premium children are doing.
+You can add additional pupil information to the marksheet for more context. E.g., if you wanted to see how your pupil premium children are doing.
 
-You can add or remove the pupil information columns by clicking **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} on the toolbar.
+Add or remove the pupil information columns by clicking **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} on the toolbar.
 
 {% include faq-end.html  %}
 
 {% include faq.html explain="Sorting" %}
 
-You can sort any column on the marksheet, e.g., you can sort on the pupils by their results.
+You can sort any column on the marksheet. E.g., you can sort on the pupils by their results.
 
 [Learn more about sorting marksheets](sorting)
 
@@ -66,7 +66,7 @@ You can sort any column on the marksheet, e.g., you can sort on the pupils by th
 
 {% include faq.html explain="Filtering" %}
 
-You can use any column on the marksheet as a filter, e.g., you can focus on the pupils eligible for Pupil Premium.
+You can use any column on the marksheet as a filter. E.g., you can focus on the pupils eligible for Pupil Premium.
 
 [Learn more about filtering marksheets](filtering)
 
@@ -74,7 +74,7 @@ You can use any column on the marksheet as a filter, e.g., you can focus on the 
 
 {% include faq.html explain="Adding Ad-hoc Columns" %}
 
-You can add ad-hoc columns to a marksheet. E.g., If you decide to challenge the class to a quick spelling test and you want to record the outcome.
+You can add ad-hoc columns to a marksheet. E.g., if you decide to challenge the class to a quick spelling test and you want to record the outcome.
 
 To add a column:
 
@@ -82,7 +82,7 @@ To add a column:
 2. Give the column a name.
 3. Set the column type, either text or number.
 
-> The additional column only affects *your* marksheet. If you need a column adding to every marksheet, you need to change the marksheet's template. You'll need to ask your to Assessment Coordinator to change a marksheet's template.
+> The additional column only affects *your* marksheet. If you need a column adding to every marksheet, you need to change the marksheet's template. You'll need to ask your Assessment Coordinator to do this for you.
 {:.note}
 
 {% include faq-end.html  %}

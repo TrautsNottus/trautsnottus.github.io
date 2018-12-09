@@ -59,11 +59,11 @@ You can add additional pupil information to the marksheet for more context. E.g.
 
 Add or remove the pupil information columns by clicking **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} on the toolbar.
 
-Clicking on a pupil's name shows you **Pupil Info** panel e.g. their photo, date of birth.
+Clicking on a pupil's name shows you **Pupil Info** panel, e.g. their photo, date of birth.
 
 {% include image.html url="shots/ms-additional.png" title="Click the pupil's name for their **Pupil Info** panel" %}
 
-From the **Pupil Info** panel you can also create [Pupil Log Notes](../plog/)
+From the **Pupil Info** panel, you can also create [Pupil Log Notes](../plog/)
 
 {% include faq-end.html  %}
 
