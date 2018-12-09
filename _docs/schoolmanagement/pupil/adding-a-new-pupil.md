@@ -7,6 +7,8 @@ title: Adding a new pupil
 
 Add a pupil via **Add Pupil Wizard** on the **Pupil Records** screen.
 
+To open the **Add Pupil Wizard**:
+
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Pupil Records**.
 3. Click **Add New Pupil** on the toolbar.

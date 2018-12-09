@@ -2,6 +2,8 @@
 title: Make pupils leavers
 ---
 
+Groups of pupils can be made leavers via the **Manage Leavers** screen.
+
 To make pupils leavers:
 
 1. Open the {% include glossarytooltip.html explain="Menu"%}.

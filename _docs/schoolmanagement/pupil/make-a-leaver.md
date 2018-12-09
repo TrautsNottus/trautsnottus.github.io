@@ -2,6 +2,8 @@
 title: Making a pupil a leaver
 ---
 
+Individual pupils can be made leavers via their **Pupil Record**.
+
 To make a pupil a leaver:
 
 1. Open the {% include glossarytooltip.html explain="Menu"%}.
