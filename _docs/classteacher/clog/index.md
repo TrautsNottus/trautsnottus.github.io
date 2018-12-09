@@ -18,7 +18,7 @@ Many of your daily tasks can be made easier with the Class Log:
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Class Log**.
 3. Choose your class.
 
-> For class teachers, there's a shortcut to **Class Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
+> For teachers, there's a shortcut to **Class Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
 {% include faq.html explain="Filter By panel" %}

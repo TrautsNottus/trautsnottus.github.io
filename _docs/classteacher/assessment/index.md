@@ -5,58 +5,65 @@ title: Intro to SIMS assessment
 Assessment simplified.
 {:.lead}
 
-A marksheet is a spreadsheet, where pupil are listed in rows, and the assessments are listed in columns ({% include glossarytooltip.html explain="Aspects" %}).
+A marksheet is a spreadsheet, listing pupils in rows, and the assessments in columns ({% include glossarytooltip.html explain="Aspects" %}).
 
-In SIMS are three types of marksheet:
+In SIMS there are three types of marksheet:
 
-1. [General Marksheets](marksheets/ms-ass), used for {% include glossarytooltip.html explain="Summative" %} assessments, e.g., the end of Key Stage
-1. [Programme of Study Tracking Sheets](marksheets/ms-pos), used for ongoing {% include glossarytooltip.html explain="Formative" %} evaluation; where you can assess against the curriculum learning objectives.
-1. [Historical Marksheets](marksheets/ms-historical), used for changing results in the past.
+1. [General Marksheets](marksheets/ms-ass), used for {% include glossarytooltip.html explain="Summative" %} assessments, e.g., the end of Key Stage assessment.
+2. [Programme of Study Tracking Sheets](marksheets/ms-pos), used for ongoing {% include glossarytooltip.html explain="Formative" %} evaluation; where you assess against curriculum learning objectives.
+3. [Historical Marksheets](marksheets/ms-historical), used for changing results in the past.
 {:.list}
 
-> As a teacher, you've access to marksheets from the {% include glossarytooltip.html explain="Quick Links" %}.
+> For teachers, there's a shortcut to **General Marksheets** and **Programme of Study Tracking Sheets** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
 {% include faq.html explain="Marksheet creation" %}
 
-Marksheets are created by your Assessment Coordinator.
+An Assessment Coordinator creates Marksheets.
 
-An Assessment Coordinator creates a template for a marksheet. A template defines the columns that appear in the marksheet.
+An Assessment Coordinator creates templates for a marksheet, i.e. the columns to appear in marksheets.
 
-By associating the template with one or more pupil groups, marksheets can be created for each supervisor of each group.
+By associating the template with one or more groups, e.g., classes, year groups, marksheets are created.
 
-As a class teacher, you'll see only those marksheets relevant to you.
+As a teacher, you'll see only those marksheets relevant to you.
 
 {% include faq-end.html  %}
 
 {% include faq.html explain="Column types" %}
 
-There are several types of columns that make up a marksheet:
+Several column types make up a marksheet:
 
 Data entry columns
-: Data entry columns enable you to enter assessment results for each pupil listed in the marksheet.
+: Data entry columns are for entering the results.
 
 Read-only columns
-: Columns on the marksheet can be read-only. Read-only columns appear greyed-out. These columns are either for information or are the result of a calculation.
+: Read-only columns are for information. Read-only columns appear greyed-out and can't be edited.
 
 Formula columns
-: A formula performs calculations or other actions on the data in your marksheet.
+: A formula column performs calculations on the data in your marksheet.
 
 Formula columns are indicated by an {% include icon.html url="formula-function" title="Formula Icon" %} symbol in the column header.
 
-To see details of the formula, open the {% include glossarytooltip.html explain="Column Menu" %} and click {% include icon.html url="formula" title="Take Formula" %} **View Formula**.
+To see details on a formula, open the {% include glossarytooltip.html explain="Column Menu" %} and click {% include icon.html url="formula" title="Take Formula" %} **View Formula**.
 
 [Learn more about Formulas](formulas-intro)
 
 Pupil information columns
-: Pupil information column display details about pupil, e.g., their name, class, year group.
+: Pupil information columns contain information about a pupil, e.g., their name, class, year group.
 
-Clicking on a pupil's name shows you more details about them, e.g. their photo, date of birth.
+{% include faq-end.html  %}
 
-You can add additional pupil information to ta marksheet for more context, e.g. if you wanted to see how your pupil premium children are doing.
+{% include faq.html explain="Additional information" %}
 
-> You can add or remove the pupil information columns by clicking **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} on the toolbar.
-{:note}
+You can add additional pupil information to the marksheet for more context. E.g. if you wanted to see how your pupil premium children are doing.
+
+Add or remove the pupil information columns by clicking **Pupil Info Columns** {% include icon.html url="pupilrecord" title="Pupil Info Columns" %} on the toolbar.
+
+Clicking on a pupil's name shows you **Pupil Info** panel e.g. their photo, date of birth.
+
+{% include image.html url="shots/ms-additional.png" title="Click the pupil's name for their **Pupil Info** panel" %}
+
+From the **Pupil Info** panel you can also create [Pupil Log Notes](../plog/)
 
 {% include faq-end.html  %}
 
@@ -77,6 +84,6 @@ There are five Result Types:
 
 {% include faq.html explain="Result History" %}
 
-As you enter results into a marksheet, a history of the results is preserved. This facilitates the analysis of your pupil's progress.
+As you enter results into a marksheet, we store the previous result. Recording the result history helps you analyse your pupil's progress.
 
 {% include faq-end.html  %}

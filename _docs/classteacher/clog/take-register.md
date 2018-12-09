@@ -12,7 +12,7 @@ A few clicks and you're done.
 3. Choose your class.
 4. Click **Take Register** {% include icon.html url="check-square-o" title="Take Register" %} on the toolbar.
 
-> For class teachers, there's a shortcut to **Take Register** in the {% include glossarytooltip.html explain="Quick Links" %}.
+> For teachers, there's a shortcut to **Take Register** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
 > **Take Register** only allows you to record registration for the current day. Use [Edit Marks](../../schoolmanagement/attendance/edit-marks) to change marks in the past or the future.

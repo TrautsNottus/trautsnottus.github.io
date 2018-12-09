@@ -11,7 +11,7 @@ A new way to view and share pupil information.
 1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Pupil Log**.
 1. Use the **Search** panel to find the pupil
 
-> For class teachers, there's a shortcut to **Pupil Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
+> For teachers, there's a shortcut to **Pupil Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
 ## What is the Pupil Log?
