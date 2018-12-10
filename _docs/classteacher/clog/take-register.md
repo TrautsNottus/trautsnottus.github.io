@@ -11,6 +11,7 @@ A few clicks and you're done.
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find the {% include glossarytooltip.html explain="Class Log" page=page %}.
 3. Choose your class.
 4. Click **Take Register** {% include icon.html url="check-square-o" title="Take Register" %} on the toolbar.
+5. point
 
 > For teachers, there's a shortcut to **Take Register** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
