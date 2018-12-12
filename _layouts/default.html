@@ -21,7 +21,7 @@
     <div class="nav-bar">
       <input type="image" src="{{site.baseurl}}/assets/css/images/svg/home.svg" onclick="location.href='{{base.url}}/docs/'"
         aria-label="Home" alt="Home">&nbsp;&nbsp;
-      <input type="image" src="{{base.url}}/assets/css/images/svg/back.svg" onclick="javascript: goBack()" aria-label="Previous page"
+      <input type="image" src="{{base.url}}/assets/css/images/svg/back.svg" onclick="javascript: window.history.back()" aria-label="Previous page"
         alt="Previous page">&nbsp;&nbsp;
       <input type="image" src="{{base.url}}/assets/css/images/svg/next.svg" onclick="javascript: window.history.forward()" aria-label="Next page"
         alt="Next page">
@@ -50,24 +50,6 @@
       window.parent.postMessage({ type: 'help', location: window.location.href }, '*');
     }
 
-if(sessionStorage.getItem('key') === null)
-{
-  sessionStorage.setItem('key', document.referrer);
-}
-
-
-    function goBack()
-    {
-
-      var data = sessionStorage.getItem('key');
-
-      console.log(data);
-      //if the referrer is in the same domain, then go back. otherwise the it'll try and send the parent page back
-      if(data && data.indexOf(location.host) !== -1)
-      {
-        window.history.back();
-      }
-    }
   </script>
 
 </body>
