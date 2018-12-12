@@ -50,10 +50,20 @@
       window.parent.postMessage({ type: 'help', location: window.location.href }, '*');
     }
 
+if(sessionStorage.getItem('key') === null)
+{
+  sessionStorage.setItem('key', document.referrer);
+}
+
+
     function goBack()
     {
+
+      var data = sessionStorage.getItem('key');
+
+      console.log(data);
       //if the referrer is in the same domain, then go back. otherwise the it'll try and send the parent page back
-      if(document.referrer && document.referrer.indexOf(location.host) !== -1)
+      if(data && data.indexOf(location.host) !== -1)
       {
         window.history.back();
       }
