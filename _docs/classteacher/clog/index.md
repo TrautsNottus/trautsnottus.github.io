@@ -11,6 +11,8 @@ Many of your daily tasks can be made easier with the Class Log:
 * [Recording lunches](dinner-register)
 * [Award conduct points](conduct)
 * [Recording notes](notes)
+* next part
+
 
 ## Opening the Class Log
 
