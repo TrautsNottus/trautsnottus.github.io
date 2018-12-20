@@ -5,7 +5,7 @@ title: The Class Log
 Designed for the classroom, the Class Log is a new way for you to interact with information on your class.
 {:.lead}
 
-Many of your daily tasks can be made easier with the Class Log:
+Many of your daily tasks can be made easier with the **Class Log**:
 
 * [Taking the register](take-register)
 * [Recording lunches](dinner-register)
